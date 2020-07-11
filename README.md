@@ -1,4 +1,4 @@
-Currently working on [LAGOS](https://lagoslakes.org) and associated projects. Read [my blog](https://jsta.rbind.io/blog) or [follow @__jsta on Twitter](https://twitter.com/__jsta).
+Currently working on [LAGOS](https://lagoslakes.org) and associated projects. Read [my blog](https://jsta.rbind.io/blog) or follow [@__jsta](https://twitter.com/__jsta) on Twitter.
 
 <table><tr><td valign="top">
 
