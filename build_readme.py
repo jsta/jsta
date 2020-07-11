@@ -5,12 +5,14 @@ import json
 import pathlib
 import re
 import os
-import re
+import datetime
+
 
 root = pathlib.Path(__file__).parent.resolve()
 client = GraphqlClient(endpoint="https://api.github.com/graphql")
 
-# https://stackoverflow.com/a/9161531/3362993
+## https://stackoverflow.com/a/9161531/3362993
+## for local builds
 # keys = {}
 # with open(os.path.expanduser('~/.Renviron')) as myfile:
 #     for line in myfile:
@@ -102,25 +104,13 @@ def fetch_releases(oauth_token):
     return releases
 
 def fetch_blog_entries():
-    _my_date_pattern = re.compile(
-      r'(\d{,2})/(\d{,2})/(\d{4})')
-
-    def myDateHandler(aDateString):
-        """parse a UTC date in MM/DD/YYYY HH:MM:SS format"""
-        # aDateString = "Sun, 01 Dec 2019 00:00:00 +0000"
-        month, day, year = \
-          _my_date_pattern.search(aDateString).groups()
-        return (int(year), int(month), int(day), \
-          0, 0, 0)
-
-    feedparser.registerDateHandler(myDateHandler)
     
     entries = feedparser.parse("https://jsta.rbind.io/blog/index.xml")["entries"]
     return [
         {
             "title": entry["title"],
             "url": entry["link"].split("#")[0],
-            "published": entry["published"].split("T")[0],
+            "published": datetime.datetime.strptime(entry["published"], "%a, %d %b %Y %H:%M:%S %z").strftime("%Y-%m-%d")
         }
         for entry in entries
     ]
