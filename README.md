@@ -22,6 +22,6 @@ More [recent releases](https://github.com/jsta/jsta/blob/main/releases.md)
 * [Making a twitter dashboard with R](https://jsta.rbind.io/blog/making-a-twitter-dashboard-with-r/) - Sun, 06 May 2018 00:00:00 +0000
 <!-- blog ends -->
 More on [jsta.rbind.io](https://jsta.rbind.io)
-</td><td valign="top">
+</td></tr></table>
 
-<a href="https://github.com/jsta/jsta/actions"><img src="https://github.com/jsta/jsta/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">How this works</a>
+<a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">How this works</a> <a href="https://github.com/jsta/jsta/actions"><img src="https://github.com/jsta/jsta/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
