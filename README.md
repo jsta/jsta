@@ -15,11 +15,11 @@ More [recent releases](https://github.com/jsta/jsta/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
+* [Automated roxygen documentation of R package data](https://jsta.rbind.io/blog/automated-roxygen-documentation-of-r-package-data/) - 2020-07-12
 * [Book review - Climate leviathan: a political theory of our planetary future](https://jsta.rbind.io/blog/climate-leviathan-a-polictical-theory-of-our-planetary-future/) - 2020-02-06
 * [Limnology papers year end review 2019](https://jsta.rbind.io/blog/limnology-papers-year-end-review-with-a-python-twitter-rss-feed/) - 2019-12-01
 * [What is the scope of NEON lakes data?](https://jsta.rbind.io/blog/what-is-the-scope-of-neon-lakes-data/) - 2019-05-01
 * [Are Google Earth Engine analyses reproducible?](https://jsta.rbind.io/blog/are-google-earth-engine-analyses-reproducible/) - 2019-04-19
-* [Making a twitter dashboard with R](https://jsta.rbind.io/blog/making-a-twitter-dashboard-with-r/) - 2018-05-06
 <!-- blog ends -->
 More on [jsta.rbind.io](https://jsta.rbind.io)
 </td></tr></table>
