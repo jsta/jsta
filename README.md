@@ -7,8 +7,8 @@ Currently working on [KGML](https://sites.google.com/umn.edu/kgml/home), [LAGOS]
 * [tikz-lake-fig 1.0.0](https://github.com/jsta/tikz-lake-fig/releases/tag/1.0.0) - 2020-05-25
 * [dams 0.3.0](https://github.com/jsta/dams/releases/tag/0.3.0) - 2020-05-22
 * [nesRdata 0.3.1](https://github.com/jsta/nesRdata/releases/tag/0.3.1) - 2020-04-30
+* [beyond_land_use 0.2](https://github.com/CNHLakes/beyond_land_use/releases/tag/0.2) - 2020-04-23
 * [nhdR 0.5.3](https://github.com/jsta/nhdR/releases/tag/0.5.3) - 2020-03-23
-* [rv 2.3.4](https://github.com/jsta/rv/releases/tag/2.3.4) - 2020-02-05
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/jsta/jsta/blob/main/releases.md)
 </td><td valign="top">

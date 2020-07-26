@@ -18,7 +18,7 @@ client = GraphqlClient(endpoint="https://api.github.com/graphql")
 #     for line in myfile:
 #         name, key = line.partition("=")[::2]
 #         keys[name.strip()] = str.rstrip(key)
-# 
+#
 # TOKEN = keys['GITHUB_PAT']
 
 TOKEN = os.environ.get("JSTA_TOKEN", "")
@@ -38,7 +38,7 @@ def make_query(after_cursor=None):
     return """
 query {
   viewer {
-    repositories(first: 100, privacy: PUBLIC, after:AFTER) {
+    repositories(first: 100, ownerAffiliations:[OWNER, ORGANIZATION_MEMBER], privacy: PUBLIC, after:AFTER) {
       pageInfo {
         hasNextPage
         endCursor
@@ -46,13 +46,16 @@ query {
       nodes {
         name
         description
-        url
+        url        
+        owner {
+            login
+        }
         releases(last:1) {
-          totalCount
+          totalCount          
           nodes {
             name
             publishedAt
-            url
+            url                        
           }
         }
       }
@@ -86,6 +89,7 @@ def fetch_releases(oauth_token):
                 releases.append(
                     {
                         "repo": repo["name"],
+                        "login": repo["owner"]["login"],                        
                         "repo_url": repo["url"],
                         "description": repo["description"],
                         "release": repo["releases"]["nodes"][0]["name"]
@@ -119,8 +123,10 @@ def fetch_blog_entries():
 if __name__ == "__main__":
     readme = root / "README.md"
     project_releases = root / "releases.md"
-    releases = fetch_releases(TOKEN)
-    releases.sort(key=lambda r: r["published_at"], reverse=True)
+    releases = fetch_releases(TOKEN)    
+    releases = list(filter(lambda r: r["login"] not in ["ropenscilabs", "rbind"], releases))
+    releases = list(filter(lambda r: r["repo"] not in ["LAGOS_GIS_Toolbox"], releases))
+    releases.sort(key=lambda r: r["published_at"], reverse=True)        
     md = "\n".join(
         [
             "* [{repo} {release}]({url}) - {published_at}".format(**release)
