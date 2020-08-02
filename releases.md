@@ -3,6 +3,8 @@
 All <!-- release_count starts -->32<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[ipdw](https://github.com/jsta/ipdw)**: [v0.2-9](https://github.com/jsta/ipdw/releases/tag/v0.2-9) - 2020-08-02
+<br>Interpolation by Inverse Path Distance Weighting :leftwards_arrow_with_hook: 🌊
 * **[tikz-lake-fig](https://github.com/jsta/tikz-lake-fig)**: [1.0.0](https://github.com/jsta/tikz-lake-fig/releases/tag/1.0.0) - 2020-05-25
 <br>Collection of lake diagrams for use in LaTeX documents :page_with_curl:
 * **[dams](https://github.com/jsta/dams)**: [0.3.0](https://github.com/jsta/dams/releases/tag/0.3.0) - 2020-05-22
@@ -19,8 +21,6 @@ All <!-- release_count starts -->32<!-- release_count ends --> of my released pr
 <br>GLATOS - Working with Geospatial Data
 * **[wq-prediction](https://github.com/cont-limno/wq-prediction)**: [1.0.0](https://github.com/cont-limno/wq-prediction/releases/tag/1.0.0) - 2020-01-13
 <br>Ecological prediction at macroscales using big data: Does  sampling design matter:question:
-* **[ipdw](https://github.com/jsta/ipdw)**: [v0.2-8](https://github.com/jsta/ipdw/releases/tag/v0.2-8) - 2019-12-06
-<br>Interpolation by Inverse Path Distance Weighting :leftwards_arrow_with_hook: 🌊
 * **[gssurgo](https://github.com/jsta/gssurgo)**: [1.0.0](https://github.com/jsta/gssurgo/releases/tag/1.0.0) - 2019-11-19
 <br>Python package enabling an open source gSSURGO workflow
 * **[LivinOnTheEdge](https://github.com/cont-limno/LivinOnTheEdge)**: [Livin' on the Edge: aquatic and semi-aquatic connectivity among lakes in relation to protected areas](https://github.com/cont-limno/LivinOnTheEdge/releases/tag/1.0) - 2019-09-27
