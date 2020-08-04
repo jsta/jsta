@@ -6,6 +6,7 @@ import pathlib
 import re
 import os
 import datetime
+import json
 
 
 root = pathlib.Path(__file__).parent.resolve()
@@ -126,7 +127,11 @@ if __name__ == "__main__":
     releases = fetch_releases(TOKEN)    
     releases = list(filter(lambda r: r["login"] not in ["ropenscilabs", "rbind"], releases))
     releases = list(filter(lambda r: r["repo"] not in ["LAGOS_GIS_Toolbox"], releases))
-    releases.sort(key=lambda r: r["published_at"], reverse=True)        
+    releases.sort(key=lambda r: r["published_at"], reverse=True)
+
+    with open('releases.json', 'w') as outfile:
+        json.dump(releases, outfile)
+
     md = "\n".join(
         [
             "* [{repo} {release}]({url}) - {published_at}".format(**release)
