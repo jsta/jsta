@@ -7,6 +7,7 @@ import re
 import os
 import datetime
 import json
+import pandas as pd
 
 
 root = pathlib.Path(__file__).parent.resolve()
@@ -47,7 +48,14 @@ query {
       nodes {
         name
         description
-        url        
+        url 
+        repositoryTopics (first: 20) {          
+            nodes {
+              topic {
+                name
+              }
+            }
+          }        
         owner {
             login
         }
@@ -76,6 +84,7 @@ def fetch_releases(oauth_token):
     after_cursor = None
 
     while has_next_page:
+        # oauth_token = TOKEN
         data = client.execute(
             query=make_query(after_cursor),
             headers={"Authorization": "Bearer {}".format(oauth_token)},
@@ -84,15 +93,23 @@ def fetch_releases(oauth_token):
         print(json.dumps(data, indent=4))
         print()
         for repo in data["data"]["viewer"]["repositories"]["nodes"]:
+            # repo = data["data"]["viewer"]["repositories"]["nodes"][0]
             if repo["releases"]["totalCount"] and repo["name"] not in repo_names:
                 repos.append(repo)
                 repo_names.add(repo["name"])
+                
+                topics_raw = pd.io.json._normalize.nested_to_record(repo['repositoryTopics']['nodes'])
+                topics = []                
+                for topic in topics_raw:
+                    topics.append(list(topic.values())[0])
+
                 releases.append(
                     {
                         "repo": repo["name"],
                         "login": repo["owner"]["login"],                        
                         "repo_url": repo["url"],
                         "description": repo["description"],
+                        "tags": topics,
                         "release": repo["releases"]["nodes"][0]["name"]
                         .replace(repo["name"], "")
                         .strip(),
@@ -126,7 +143,7 @@ if __name__ == "__main__":
     project_releases = root / "releases.md"
     releases = fetch_releases(TOKEN)    
     releases = list(filter(lambda r: r["login"] not in ["ropenscilabs", "rbind"], releases))
-    releases = list(filter(lambda r: r["repo"] not in ["LAGOS_GIS_Toolbox"], releases))
+    releases = list(filter(lambda r: r["repo"] not in ["LAGOS_GIS_Toolbox", "LAGOSClimateSensitivity"], releases))
     releases.sort(key=lambda r: r["published_at"], reverse=True)
 
     with open('releases.json', 'w') as outfile:

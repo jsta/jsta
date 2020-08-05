@@ -1,12 +1,12 @@
 # Released projects
 
-All <!-- release_count starts -->32<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->31<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[ipdw](https://github.com/jsta/ipdw)**: [v0.2-9](https://github.com/jsta/ipdw/releases/tag/v0.2-9) - 2020-08-02
-<br>Interpolation by Inverse Path Distance Weighting :leftwards_arrow_with_hook: 🌊
+<br>Interpolation by Inverse Path Distance Weighting 🌊
 * **[tikz-lake-fig](https://github.com/jsta/tikz-lake-fig)**: [1.0.0](https://github.com/jsta/tikz-lake-fig/releases/tag/1.0.0) - 2020-05-25
-<br>Collection of lake diagrams for use in LaTeX documents :page_with_curl:
+<br>Collection of lake diagrams for use in LaTeX documents 
 * **[dams](https://github.com/jsta/dams)**: [0.3.0](https://github.com/jsta/dams/releases/tag/0.3.0) - 2020-05-22
 <br>R interface to the United States National Inventory of Dams :us::wrench::droplet:
 * **[nesRdata](https://github.com/jsta/nesRdata)**: [0.3.1](https://github.com/jsta/nesRdata/releases/tag/0.3.1) - 2020-04-30
@@ -47,12 +47,10 @@ All <!-- release_count starts -->32<!-- release_count ends --> of my released pr
 <br>Spatial networks, using SpatialLines for edges
 * **[rgrass7sf](https://github.com/jsta/rgrass7sf)**: [0.0-3](https://github.com/jsta/rgrass7sf/releases/tag/0.0-3) - 2019-01-23
 <br>None
-* **[LAGOSClimateSensitivity](https://github.com/cont-limno/LAGOSClimateSensitivity)**: [Geographic patterns of the climate sensitivity of lakes](https://github.com/cont-limno/LAGOSClimateSensitivity/releases/tag/v1.0.0) - 2018-11-14
-<br>Analysis of geographic patterns in the climate sensitivity of lakes using LAGOS-NE
 * **[r-intro-geospatial](https://github.com/datacarpentry/r-intro-geospatial)**: [Introduction to R for Geospatial Data August 2018 Release](https://github.com/datacarpentry/r-intro-geospatial/releases/tag/v2018.08.1) - 2018-08-28
 <br>Introduction to R for Geospatial Data
 * **[looseleaf](https://github.com/jsta/looseleaf)**: [](https://github.com/jsta/looseleaf/releases/tag/v1.0.0) - 2018-06-01
-<br>Research compendium template for tracking, linking, and sharing data explorations :leaves:
+<br>Research compendium template for tracking, linking, and sharing data explorations
 * **[openbugs](https://github.com/jsta/openbugs)**: [3.2.3](https://github.com/jsta/openbugs/releases/tag/3.2.3) - 2018-01-18
 <br>Source code mirror for openbugs
 * **[peatcollapse_methods](https://github.com/jsta/peatcollapse_methods)**: [0.1](https://github.com/jsta/peatcollapse_methods/releases/tag/v0.1) - 2017-12-16
@@ -66,5 +64,5 @@ All <!-- release_count starts -->32<!-- release_count ends --> of my released pr
 * **[wikilake](https://github.com/jsta/wikilake)**: [0.3](https://github.com/jsta/wikilake/releases/tag/0.3) - 2017-07-12
 <br>Scrape lake metadata tables from Wikipedia 🏞
 * **[DataflowR](https://github.com/jsta/DataflowR)**: [v1.0](https://github.com/jsta/DataflowR/releases/tag/v1.0) - 2017-03-10
-<br>Data handling and interpolation for underway water quality monitoring :speedboat: :dash: :sweat_drops::
+<br>Data handling and interpolation for underway water quality monitoring
 <!-- recent_releases ends -->
