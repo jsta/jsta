@@ -8,7 +8,7 @@ All <!-- release_count starts -->31<!-- release_count ends --> of my released pr
 * **[tikz-lake-fig](https://github.com/jsta/tikz-lake-fig)**: [1.0.0](https://github.com/jsta/tikz-lake-fig/releases/tag/1.0.0) - 2020-05-25
 <br>Collection of lake diagrams for use in LaTeX documents 
 * **[dams](https://github.com/jsta/dams)**: [0.3.0](https://github.com/jsta/dams/releases/tag/0.3.0) - 2020-05-22
-<br>R interface to the United States National Inventory of Dams :us::wrench::droplet:
+<br>R interface to the United States National Inventory of Dams
 * **[nesRdata](https://github.com/jsta/nesRdata)**: [0.3.1](https://github.com/jsta/nesRdata/releases/tag/0.3.1) - 2020-04-30
 <br>R package to fetch, cache, and serve the National Eutrophication Survey
 * **[beyond_land_use](https://github.com/CNHLakes/beyond_land_use)**: [0.2](https://github.com/CNHLakes/beyond_land_use/releases/tag/0.2) - 2020-04-23
