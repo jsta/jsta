@@ -110,7 +110,7 @@ def fetch_releases(oauth_token):
                         "login": repo["owner"]["login"],                        
                         "repo_url": repo["url"],
                         "description": repo["description"],
-                        "tags": topics,
+                        "keywords": topics,
                         "release": repo["releases"]["nodes"][0]["name"]
                         .replace(repo["name"], "")
                         .strip(),
