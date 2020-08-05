@@ -102,6 +102,7 @@ def fetch_releases(oauth_token):
                 topics = []                
                 for topic in topics_raw:
                     topics.append(list(topic.values())[0])
+                topics = ", ".join(topics)
 
                 releases.append(
                     {
