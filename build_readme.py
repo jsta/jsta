@@ -111,6 +111,8 @@ def fetch_releases(oauth_token):
                         "repo_url": repo["url"],
                         "description": repo["description"],
                         "keywords": topics,
+                        "on_cran": False,
+                        "status": "active",
                         "release": repo["releases"]["nodes"][0]["name"]
                         .replace(repo["name"], "")
                         .strip(),
