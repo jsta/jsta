@@ -110,9 +110,7 @@ def fetch_releases(oauth_token):
                         "login": repo["owner"]["login"],                        
                         "repo_url": repo["url"],
                         "description": repo["description"],
-                        "keywords": topics,
-                        "on_cran": False,
-                        "status": "active",
+                        "keywords": topics,                        
                         "release": repo["releases"]["nodes"][0]["name"]
                         .replace(repo["name"], "")
                         .strip(),
@@ -146,7 +144,7 @@ if __name__ == "__main__":
     project_releases = root / "releases.md"
     releases = fetch_releases(TOKEN)    
     releases = list(filter(lambda r: r["login"] not in ["ropenscilabs", "rbind"], releases))
-    releases = list(filter(lambda r: r["repo"] not in ["LAGOS_GIS_Toolbox", "LAGOSClimateSensitivity"], releases))
+    releases = list(filter(lambda r: r["repo"] not in ["LAGOS_GIS_Toolbox", "LAGOSClimateSensitivity", "rgrass7sf", "tidybayes"], releases))
     releases.sort(key=lambda r: r["published_at"], reverse=True)
 
     with open('releases.json', 'w') as outfile:
