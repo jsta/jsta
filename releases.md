@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->34<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->35<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[GLM_docker](https://github.com/jsta/GLM_docker)**: [v3.1.0](https://github.com/jsta/GLM_docker/releases/tag/v3.1.0) - 2020-08-12
+<br>Building the General Lake Model (GLM) with Docker 
 * **[nml](https://github.com/jsta/nml)**: [0.0.1](https://github.com/jsta/nml/releases/tag/0.0.1) - 2020-08-07
 <br>An R package for parsing Fortran namelist files :tophat:
 * **[limnopapers](https://github.com/jsta/limnopapers)**: [0.0.1](https://github.com/jsta/limnopapers/releases/tag/0.0.1) - 2020-08-07

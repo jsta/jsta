@@ -4,11 +4,11 @@ Currently working on [KGML](https://sites.google.com/umn.edu/kgml/home), [LAGOS]
 
 ### Recent releases
 <!-- recent_releases starts -->
+* [GLM_docker v3.1.0](https://github.com/jsta/GLM_docker/releases/tag/v3.1.0) - 2020-08-12
 * [nml 0.0.1](https://github.com/jsta/nml/releases/tag/0.0.1) - 2020-08-07
 * [limnopapers 0.0.1](https://github.com/jsta/limnopapers/releases/tag/0.0.1) - 2020-08-07
 * [ipdw v0.2-9](https://github.com/jsta/ipdw/releases/tag/v0.2-9) - 2020-08-02
 * [tikz-lake-fig 1.0.0](https://github.com/jsta/tikz-lake-fig/releases/tag/1.0.0) - 2020-05-25
-* [dams 0.3.0](https://github.com/jsta/dams/releases/tag/0.3.0) - 2020-05-22
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/jsta/jsta/blob/main/releases.md)
 </td><td valign="top">
