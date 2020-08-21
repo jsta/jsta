@@ -3,6 +3,8 @@
 All <!-- release_count starts -->35<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[LAGOSNEgis](https://github.com/cont-limno/LAGOSNEgis)**: [0.1.1](https://github.com/cont-limno/LAGOSNEgis/releases/tag/0.1.1) - 2020-08-19
+<br>Extra functions to interact with the GIS module of LAGOSNE
 * **[GLM_docker](https://github.com/jsta/GLM_docker)**: [v3.1.0](https://github.com/jsta/GLM_docker/releases/tag/v3.1.0) - 2020-08-12
 <br>Building the General Lake Model (GLM) with Docker 
 * **[nml](https://github.com/jsta/nml)**: [0.0.1](https://github.com/jsta/nml/releases/tag/0.0.1) - 2020-08-07
@@ -47,8 +49,6 @@ All <!-- release_count starts -->35<!-- release_count ends --> of my released pr
 <br>Does Freshwater Connectivity Influence Phosphorus Retention in Lakes?
 * **[nlaR](https://github.com/jsta/nlaR)**: [0.4.9](https://github.com/jsta/nlaR/releases/tag/0.4.9) - 2019-01-30
 <br>R interface to the National Lakes Assessment
-* **[LAGOSNEgis](https://github.com/cont-limno/LAGOSNEgis)**: [0.1.0](https://github.com/cont-limno/LAGOSNEgis/releases/tag/0.1.0) - 2019-01-30
-<br>Extra functions to interact with the GIS module of LAGOSNE
 * **[streamnet](https://github.com/jsta/streamnet)**: [0.2.0](https://github.com/jsta/streamnet/releases/tag/0.2.0) - 2019-01-25
 <br>Morphology analysis of stream networks 🍃
 * **[spnetwork](https://github.com/jsta/spnetwork)**: [0.0-1](https://github.com/jsta/spnetwork/releases/tag/0.0-1) - 2019-01-23
