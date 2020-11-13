@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->36<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->37<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[LAGOSUSgis](https://github.com/cont-limno/LAGOSUSgis)**: [0.1.0](https://github.com/cont-limno/LAGOSUSgis/releases/tag/0.1.0) - 2020-11-12
+<br>Extra functions to interact with the GIS module of LAGOSUS
 * **[ipdw_ms_stachmadden_2015](https://github.com/jsta/ipdw_ms_stachmadden_2015)**: [](https://github.com/jsta/ipdw_ms_stachmadden_2015/releases/tag/0.1) - 2020-10-27
 <br>Application of inverse path distance weighting for high-density spatial mapping of coastal water quality patterns
 * **[LAGOSNEgis](https://github.com/cont-limno/LAGOSNEgis)**: [0.1.1](https://github.com/cont-limno/LAGOSNEgis/releases/tag/0.1.1) - 2020-08-19
