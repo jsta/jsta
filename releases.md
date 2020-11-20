@@ -1,8 +1,12 @@
 # Released projects
 
-All <!-- release_count starts -->37<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->38<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[wikilake](https://github.com/jsta/wikilake)**: [0.4](https://github.com/jsta/wikilake/releases/tag/0.4) - 2020-11-19
+<br>Scrape lake metadata tables from Wikipedia 🏞
+* **[nhdpy](https://github.com/jsta/nhdpy)**: [0.1.0](https://github.com/jsta/nhdpy/releases/tag/0.1.0) - 2020-11-13
+<br>A python port of the nhdR package for querying, downloading, and networking the National Hydrography Dataset (NHD) dataset
 * **[LAGOSUSgis](https://github.com/cont-limno/LAGOSUSgis)**: [0.1.0](https://github.com/cont-limno/LAGOSUSgis/releases/tag/0.1.0) - 2020-11-12
 <br>Extra functions to interact with the GIS module of LAGOSUS
 * **[ipdw_ms_stachmadden_2015](https://github.com/jsta/ipdw_ms_stachmadden_2015)**: [](https://github.com/jsta/ipdw_ms_stachmadden_2015/releases/tag/0.1) - 2020-10-27
@@ -73,8 +77,6 @@ All <!-- release_count starts -->37<!-- release_count ends --> of my released pr
 <br>repository containing manuscript describing the lakemorpho R package
 * **[dataflowchl](https://github.com/jsta/dataflowchl)**: [](https://github.com/jsta/dataflowchl/releases/tag/v3) - 2017-08-06
 <br>Improved estimation of phytoplankton abundance and fine-scale water quality features via simultaneous discrete and semi-continuous surveys
-* **[wikilake](https://github.com/jsta/wikilake)**: [0.3](https://github.com/jsta/wikilake/releases/tag/0.3) - 2017-07-12
-<br>Scrape lake metadata tables from Wikipedia 🏞
 * **[DataflowR](https://github.com/jsta/DataflowR)**: [v1.0](https://github.com/jsta/DataflowR/releases/tag/v1.0) - 2017-03-10
 <br>Data handling and interpolation for underway water quality monitoring
 <!-- recent_releases ends -->
