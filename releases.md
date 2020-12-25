@@ -1,8 +1,28 @@
 # Released projects
 
-All <!-- release_count starts -->31<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->39<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[LAGOS_NETS](https://github.com/cont-limno/LAGOS_NETS)**: [LAGOS-US NETWORKS v1.0: Data module of surface water networks characterizing connections among lakes, streams, and rivers in the conterminous U.S.](https://github.com/cont-limno/LAGOS_NETS/releases/tag/v1.0.0) - 2020-12-21
+<br>Code for the creation of LAGOS-US NETWORKS module
+* **[LAGOSNE](https://github.com/cont-limno/LAGOSNE)**: [v2.0.2](https://github.com/cont-limno/LAGOSNE/releases/tag/v2.0.2) - 2020-11-29
+<br>Interface to the LAke multi-scaled GeOSpatial & temporal database :earth_americas:
+* **[wikilake](https://github.com/jsta/wikilake)**: [0.4](https://github.com/jsta/wikilake/releases/tag/0.4) - 2020-11-19
+<br>Scrape lake metadata tables from Wikipedia 🏞
+* **[nhdpy](https://github.com/jsta/nhdpy)**: [0.1.0](https://github.com/jsta/nhdpy/releases/tag/0.1.0) - 2020-11-13
+<br>A python port of the nhdR package for querying, downloading, and networking the National Hydrography Dataset (NHD) dataset
+* **[LAGOSUSgis](https://github.com/cont-limno/LAGOSUSgis)**: [0.1.0](https://github.com/cont-limno/LAGOSUSgis/releases/tag/0.1.0) - 2020-11-12
+<br>Extra functions to interact with the GIS module of LAGOSUS
+* **[ipdw_ms_stachmadden_2015](https://github.com/jsta/ipdw_ms_stachmadden_2015)**: [](https://github.com/jsta/ipdw_ms_stachmadden_2015/releases/tag/0.1) - 2020-10-27
+<br>Application of inverse path distance weighting for high-density spatial mapping of coastal water quality patterns
+* **[LAGOSNEgis](https://github.com/cont-limno/LAGOSNEgis)**: [0.1.1](https://github.com/cont-limno/LAGOSNEgis/releases/tag/0.1.1) - 2020-08-19
+<br>Extra functions to interact with the GIS module of LAGOSNE
+* **[GLM_docker](https://github.com/jsta/GLM_docker)**: [v3.1.0](https://github.com/jsta/GLM_docker/releases/tag/v3.1.0) - 2020-08-12
+<br>Building the General Lake Model (GLM) with Docker 
+* **[nml](https://github.com/jsta/nml)**: [0.0.1](https://github.com/jsta/nml/releases/tag/0.0.1) - 2020-08-07
+<br>An R package for parsing Fortran namelist files :tophat:
+* **[limnopapers](https://github.com/jsta/limnopapers)**: [0.0.1](https://github.com/jsta/limnopapers/releases/tag/0.0.1) - 2020-08-07
+<br>Twitter feed of newly published articles in limnology
 * **[ipdw](https://github.com/jsta/ipdw)**: [v0.2-9](https://github.com/jsta/ipdw/releases/tag/v0.2-9) - 2020-08-02
 <br>Interpolation by Inverse Path Distance Weighting 🌊
 * **[tikz-lake-fig](https://github.com/jsta/tikz-lake-fig)**: [1.0.0](https://github.com/jsta/tikz-lake-fig/releases/tag/1.0.0) - 2020-05-25
@@ -20,33 +40,29 @@ All <!-- release_count starts -->31<!-- release_count ends --> of my released pr
 * **[glatos-spatial_workshop_learners](https://github.com/jsta/glatos-spatial_workshop_learners)**: [Data](https://github.com/jsta/glatos-spatial_workshop_learners/releases/tag/0.0.1) - 2020-01-29
 <br>GLATOS - Working with Geospatial Data
 * **[wq-prediction](https://github.com/cont-limno/wq-prediction)**: [1.0.0](https://github.com/cont-limno/wq-prediction/releases/tag/1.0.0) - 2020-01-13
-<br>Ecological prediction at macroscales using big data: Does  sampling design matter:question:
+<br>Ecological prediction at macroscales using big data: Does  sampling design matter?
+* **[NES](https://github.com/ReproducibleQM/NES)**: [v5](https://github.com/ReproducibleQM/NES/releases/tag/v5) - 2019-12-09
+<br>The National Eutrophication Survey: lake characteristics and historical nutrient concentrations
 * **[gssurgo](https://github.com/jsta/gssurgo)**: [1.0.0](https://github.com/jsta/gssurgo/releases/tag/1.0.0) - 2019-11-19
 <br>Python package enabling an open source gSSURGO workflow
 * **[LivinOnTheEdge](https://github.com/cont-limno/LivinOnTheEdge)**: [Livin' on the Edge: aquatic and semi-aquatic connectivity among lakes in relation to protected areas](https://github.com/cont-limno/LivinOnTheEdge/releases/tag/1.0) - 2019-09-27
 <br>Lake connectivity for aquatic and semi-aquatic species
-* **[LAGOSNE](https://github.com/cont-limno/LAGOSNE)**: [v2.0.1](https://github.com/cont-limno/LAGOSNE/releases/tag/v2.0.1) - 2019-07-29
-<br>Interface to the LAke multi-scaled GeOSpatial & temporal database :earth_americas:
 * **[geospatial-workshop](https://github.com/datacarpentry/geospatial-workshop)**: [Data Carpentry: Geospatial Workshop Overview, June 2019](https://github.com/datacarpentry/geospatial-workshop/releases/tag/v2019.06.1) - 2019-06-28
 <br>Geospatial Workshop Overview
 * **[r-raster-vector-geospatial](https://github.com/datacarpentry/r-raster-vector-geospatial)**: [Data Carpentry: Introduction to Geospatial Raster and Vector Data with R, June 2019](https://github.com/datacarpentry/r-raster-vector-geospatial/releases/tag/v2019.06.1) - 2019-06-27
 <br>Introduction to Geospatial Raster and Vector Data with R
 * **[organization-geospatial](https://github.com/datacarpentry/organization-geospatial)**: [Data Carpentry: Introduction to Geospatial Concepts, June 2019](https://github.com/datacarpentry/organization-geospatial/releases/tag/v2019.06.1) - 2019-06-27
 <br>Introduction to Geospatial Concepts
+* **[dbhydroR](https://github.com/ropensci/dbhydroR)**: [0.2-7](https://github.com/ropensci/dbhydroR/releases/tag/v0.2-7) - 2019-02-15
+<br>R interface to the South Florida Water Management District's DBHYDRO Database :sweat_drops::palm_tree:
 * **[nes_connectivity_p](https://github.com/jsta/nes_connectivity_p)**: [1.0](https://github.com/jsta/nes_connectivity_p/releases/tag/1.0) - 2019-01-31
 <br>Does Freshwater Connectivity Influence Phosphorus Retention in Lakes?
 * **[nlaR](https://github.com/jsta/nlaR)**: [0.4.9](https://github.com/jsta/nlaR/releases/tag/0.4.9) - 2019-01-30
 <br>R interface to the National Lakes Assessment
-* **[LAGOSNEgis](https://github.com/cont-limno/LAGOSNEgis)**: [0.1.0](https://github.com/cont-limno/LAGOSNEgis/releases/tag/0.1.0) - 2019-01-30
-<br>Extra functions to interact with the GIS module of LAGOSNE
 * **[streamnet](https://github.com/jsta/streamnet)**: [0.2.0](https://github.com/jsta/streamnet/releases/tag/0.2.0) - 2019-01-25
 <br>Morphology analysis of stream networks 🍃
-* **[tidybayes](https://github.com/jsta/tidybayes)**: [0.12.0.000002](https://github.com/jsta/tidybayes/releases/tag/0.12.0.000002) - 2019-01-25
-<br>Bayesian analysis + tidy data + geoms (R package)
 * **[spnetwork](https://github.com/jsta/spnetwork)**: [0.0-1](https://github.com/jsta/spnetwork/releases/tag/0.0-1) - 2019-01-23
 <br>Spatial networks, using SpatialLines for edges
-* **[rgrass7sf](https://github.com/jsta/rgrass7sf)**: [0.0-3](https://github.com/jsta/rgrass7sf/releases/tag/0.0-3) - 2019-01-23
-<br>None
 * **[r-intro-geospatial](https://github.com/datacarpentry/r-intro-geospatial)**: [Introduction to R for Geospatial Data August 2018 Release](https://github.com/datacarpentry/r-intro-geospatial/releases/tag/v2018.08.1) - 2018-08-28
 <br>Introduction to R for Geospatial Data
 * **[looseleaf](https://github.com/jsta/looseleaf)**: [](https://github.com/jsta/looseleaf/releases/tag/v1.0.0) - 2018-06-01
@@ -59,10 +75,10 @@ All <!-- release_count starts -->31<!-- release_count ends --> of my released pr
 <br>National Surface Water Survey Package
 * **[nesR](https://github.com/jsta/nesR)**: [](https://github.com/jsta/nesR/releases/tag/v0.3) - 2017-11-13
 <br>Scrape Data from the National Eutrophication Survey
+* **[lakemorpho_manuscript](https://github.com/jhollist/lakemorpho_manuscript)**: [Submission version for F1000Research](https://github.com/jhollist/lakemorpho_manuscript/releases/tag/v1.0) - 2017-08-31
+<br>repository containing manuscript describing the lakemorpho R package
 * **[dataflowchl](https://github.com/jsta/dataflowchl)**: [](https://github.com/jsta/dataflowchl/releases/tag/v3) - 2017-08-06
 <br>Improved estimation of phytoplankton abundance and fine-scale water quality features via simultaneous discrete and semi-continuous surveys
-* **[wikilake](https://github.com/jsta/wikilake)**: [0.3](https://github.com/jsta/wikilake/releases/tag/0.3) - 2017-07-12
-<br>Scrape lake metadata tables from Wikipedia 🏞
 * **[DataflowR](https://github.com/jsta/DataflowR)**: [v1.0](https://github.com/jsta/DataflowR/releases/tag/v1.0) - 2017-03-10
 <br>Data handling and interpolation for underway water quality monitoring
 <!-- recent_releases ends -->

@@ -1,14 +1,14 @@
-Currently working on [KGML](https://sites.google.com/umn.edu/kgml/home), [LAGOS](https://lagoslakes.org), and associated projects. Read [my blog](https://jsta.rbind.io/blog) or follow [@__jsta](https://twitter.com/__jsta) on Twitter.
+Currently working on [KGML](https://sites.google.com/umn.edu/kgml/home), [LAGOS](https://lagoslakes.org), and associated projects. 
 
 <table><tr><td valign="top">
 
 ### Recent releases
 <!-- recent_releases starts -->
-* [ipdw v0.2-9](https://github.com/jsta/ipdw/releases/tag/v0.2-9) - 2020-08-02
-* [tikz-lake-fig 1.0.0](https://github.com/jsta/tikz-lake-fig/releases/tag/1.0.0) - 2020-05-25
-* [dams 0.3.0](https://github.com/jsta/dams/releases/tag/0.3.0) - 2020-05-22
-* [nesRdata 0.3.1](https://github.com/jsta/nesRdata/releases/tag/0.3.1) - 2020-04-30
-* [beyond_land_use 0.2](https://github.com/CNHLakes/beyond_land_use/releases/tag/0.2) - 2020-04-23
+* [LAGOS_NETS LAGOS-US NETWORKS v1.0: Data module of surface water networks characterizing connections among lakes, streams, and rivers in the conterminous U.S.](https://github.com/cont-limno/LAGOS_NETS/releases/tag/v1.0.0) - 2020-12-21
+* [LAGOSNE v2.0.2](https://github.com/cont-limno/LAGOSNE/releases/tag/v2.0.2) - 2020-11-29
+* [wikilake 0.4](https://github.com/jsta/wikilake/releases/tag/0.4) - 2020-11-19
+* [nhdpy 0.1.0](https://github.com/jsta/nhdpy/releases/tag/0.1.0) - 2020-11-13
+* [LAGOSUSgis 0.1.0](https://github.com/cont-limno/LAGOSUSgis/releases/tag/0.1.0) - 2020-11-12
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/jsta/jsta/blob/main/releases.md)
 </td><td valign="top">
