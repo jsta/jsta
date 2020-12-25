@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->38<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->39<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[LAGOS_NETS](https://github.com/cont-limno/LAGOS_NETS)**: [LAGOS-US NETWORKS v1.0: Data module of surface water networks characterizing connections among lakes, streams, and rivers in the conterminous U.S.](https://github.com/cont-limno/LAGOS_NETS/releases/tag/v1.0.0) - 2020-12-21
+<br>Code for the creation of LAGOS-US NETWORKS module
 * **[LAGOSNE](https://github.com/cont-limno/LAGOSNE)**: [v2.0.2](https://github.com/cont-limno/LAGOSNE/releases/tag/v2.0.2) - 2020-11-29
 <br>Interface to the LAke multi-scaled GeOSpatial & temporal database :earth_americas:
 * **[wikilake](https://github.com/jsta/wikilake)**: [0.4](https://github.com/jsta/wikilake/releases/tag/0.4) - 2020-11-19
