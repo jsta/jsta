@@ -144,7 +144,7 @@ if __name__ == "__main__":
     project_releases = root / "releases.md"
     releases = fetch_releases(TOKEN)    
     releases = list(filter(lambda r: r["login"] not in ["ropenscilabs", "rbind"], releases))
-    releases = list(filter(lambda r: r["repo"] not in ["LAGOS_GIS_Toolbox", "LAGOSClimateSensitivity", "rgrass7sf", "tidybayes"], releases))
+    releases = list(filter(lambda r: r["repo"] not in ["LAGOS_GIS_Toolbox", "LAGOSClimateSensitivity", "rgrass7sf", "tidybayes", "openbugs", "spnetwork", "LAGOS_NETS"], releases))
     releases.sort(key=lambda r: r["published_at"], reverse=True)
 
     with open('releases.json', 'w') as outfile:
