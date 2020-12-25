@@ -1,10 +1,8 @@
 # Released projects
 
-All <!-- release_count starts -->39<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->36<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[LAGOS_NETS](https://github.com/cont-limno/LAGOS_NETS)**: [LAGOS-US NETWORKS v1.0: Data module of surface water networks characterizing connections among lakes, streams, and rivers in the conterminous U.S.](https://github.com/cont-limno/LAGOS_NETS/releases/tag/v1.0.0) - 2020-12-21
-<br>Code for the creation of LAGOS-US NETWORKS module
 * **[LAGOSNE](https://github.com/cont-limno/LAGOSNE)**: [v2.0.2](https://github.com/cont-limno/LAGOSNE/releases/tag/v2.0.2) - 2020-11-29
 <br>Interface to the LAke multi-scaled GeOSpatial & temporal database :earth_americas:
 * **[wikilake](https://github.com/jsta/wikilake)**: [0.4](https://github.com/jsta/wikilake/releases/tag/0.4) - 2020-11-19
@@ -61,14 +59,10 @@ All <!-- release_count starts -->39<!-- release_count ends --> of my released pr
 <br>R interface to the National Lakes Assessment
 * **[streamnet](https://github.com/jsta/streamnet)**: [0.2.0](https://github.com/jsta/streamnet/releases/tag/0.2.0) - 2019-01-25
 <br>Morphology analysis of stream networks 🍃
-* **[spnetwork](https://github.com/jsta/spnetwork)**: [0.0-1](https://github.com/jsta/spnetwork/releases/tag/0.0-1) - 2019-01-23
-<br>Spatial networks, using SpatialLines for edges
 * **[r-intro-geospatial](https://github.com/datacarpentry/r-intro-geospatial)**: [Introduction to R for Geospatial Data August 2018 Release](https://github.com/datacarpentry/r-intro-geospatial/releases/tag/v2018.08.1) - 2018-08-28
 <br>Introduction to R for Geospatial Data
 * **[looseleaf](https://github.com/jsta/looseleaf)**: [](https://github.com/jsta/looseleaf/releases/tag/v1.0.0) - 2018-06-01
 <br>Research compendium template for tracking, linking, and sharing data explorations
-* **[openbugs](https://github.com/jsta/openbugs)**: [3.2.3](https://github.com/jsta/openbugs/releases/tag/3.2.3) - 2018-01-18
-<br>Source code mirror for openbugs
 * **[peatcollapse_methods](https://github.com/jsta/peatcollapse_methods)**: [0.1](https://github.com/jsta/peatcollapse_methods/releases/tag/v0.1) - 2017-12-16
 <br>In-situ simulation of sea-level rise impacts on coastal wetlands using a flow-through mesocosm approach
 * **[nsws](https://github.com/jsta/nsws)**: [v0.1](https://github.com/jsta/nsws/releases/tag/0.1) - 2017-12-14
