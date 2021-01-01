@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->36<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->37<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[natcap-invest-docker](https://github.com/jsta/natcap-invest-docker)**: [v0.0.1](https://github.com/jsta/natcap-invest-docker/releases/tag/0.0.1) - 2020-12-27
+<br>Docker wrapper around NatCap's InVEST
 * **[LAGOSNE](https://github.com/cont-limno/LAGOSNE)**: [v2.0.2](https://github.com/cont-limno/LAGOSNE/releases/tag/v2.0.2) - 2020-11-29
 <br>Interface to the LAke multi-scaled GeOSpatial & temporal database :earth_americas:
 * **[wikilake](https://github.com/jsta/wikilake)**: [0.4](https://github.com/jsta/wikilake/releases/tag/0.4) - 2020-11-19
