@@ -4,7 +4,7 @@ Currently working on [KGML](https://sites.google.com/umn.edu/kgml/home), [LAGOS]
 
 ### Recent releases
 <!-- recent_releases starts -->
-* [LAGOS_NETS LAGOS-US NETWORKS v1.0: Data module of surface water networks characterizing connections among lakes, streams, and rivers in the conterminous U.S.](https://github.com/cont-limno/LAGOS_NETS/releases/tag/v1.0.0) - 2020-12-21
+* [natcap-invest-docker v0.0.1](https://github.com/jsta/natcap-invest-docker/releases/tag/0.0.1) - 2020-12-27
 * [LAGOSNE v2.0.2](https://github.com/cont-limno/LAGOSNE/releases/tag/v2.0.2) - 2020-11-29
 * [wikilake 0.4](https://github.com/jsta/wikilake/releases/tag/0.4) - 2020-11-19
 * [nhdpy 0.1.0](https://github.com/jsta/nhdpy/releases/tag/0.1.0) - 2020-11-13
