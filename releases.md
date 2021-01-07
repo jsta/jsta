@@ -3,6 +3,8 @@
 All <!-- release_count starts -->37<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[zoteroscripts](https://github.com/jsta/zoteroscripts)**: [0.0.1](https://github.com/jsta/zoteroscripts/releases/tag/v0.0.1) - 2021-01-07
+<br>Recipes for managing your Zotero library with `pyzotero`
 * **[natcap-invest-docker](https://github.com/jsta/natcap-invest-docker)**: [v0.0.1](https://github.com/jsta/natcap-invest-docker/releases/tag/0.0.1) - 2020-12-27
 <br>Docker wrapper around NatCap's InVEST
 * **[LAGOSNE](https://github.com/cont-limno/LAGOSNE)**: [v2.0.2](https://github.com/cont-limno/LAGOSNE/releases/tag/v2.0.2) - 2020-11-29
@@ -45,8 +47,6 @@ All <!-- release_count starts -->37<!-- release_count ends --> of my released pr
 <br>The National Eutrophication Survey: lake characteristics and historical nutrient concentrations
 * **[gssurgo](https://github.com/jsta/gssurgo)**: [1.0.0](https://github.com/jsta/gssurgo/releases/tag/1.0.0) - 2019-11-19
 <br>Python package enabling an open source gSSURGO workflow
-* **[LivinOnTheEdge](https://github.com/cont-limno/LivinOnTheEdge)**: [Livin' on the Edge: aquatic and semi-aquatic connectivity among lakes in relation to protected areas](https://github.com/cont-limno/LivinOnTheEdge/releases/tag/1.0) - 2019-09-27
-<br>Lake connectivity for aquatic and semi-aquatic species
 * **[geospatial-workshop](https://github.com/datacarpentry/geospatial-workshop)**: [Data Carpentry: Geospatial Workshop Overview, June 2019](https://github.com/datacarpentry/geospatial-workshop/releases/tag/v2019.06.1) - 2019-06-28
 <br>Geospatial Workshop Overview
 * **[r-raster-vector-geospatial](https://github.com/datacarpentry/r-raster-vector-geospatial)**: [Data Carpentry: Introduction to Geospatial Raster and Vector Data with R, June 2019](https://github.com/datacarpentry/r-raster-vector-geospatial/releases/tag/v2019.06.1) - 2019-06-27
