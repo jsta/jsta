@@ -3,6 +3,8 @@
 All <!-- release_count starts -->37<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[nhdR](https://github.com/jsta/nhdR)**: [0.5.4](https://github.com/jsta/nhdR/releases/tag/0.5.4) - 2021-01-28
+<br>R interface to the National Hydrography Dataset :droplet:
 * **[zoteroscripts](https://github.com/jsta/zoteroscripts)**: [0.0.1](https://github.com/jsta/zoteroscripts/releases/tag/v0.0.1) - 2021-01-07
 <br>Recipes for managing your Zotero library with `pyzotero`
 * **[natcap-invest-docker](https://github.com/jsta/natcap-invest-docker)**: [v0.0.1](https://github.com/jsta/natcap-invest-docker/releases/tag/0.0.1) - 2020-12-27
@@ -35,8 +37,6 @@ All <!-- release_count starts -->37<!-- release_count ends --> of my released pr
 <br>R package to fetch, cache, and serve the National Eutrophication Survey
 * **[beyond_land_use](https://github.com/CNHLakes/beyond_land_use)**: [0.2](https://github.com/CNHLakes/beyond_land_use/releases/tag/0.2) - 2020-04-23
 <br>Granular measures of agricultural land-use influence lake nitrogen and phosphorus differently at macroscales
-* **[nhdR](https://github.com/jsta/nhdR)**: [0.5.3](https://github.com/jsta/nhdR/releases/tag/0.5.3) - 2020-03-23
-<br>R interface to the National Hydrography Dataset :droplet:
 * **[rv](https://github.com/jsta/rv)**: [2.3.4](https://github.com/jsta/rv/releases/tag/2.3.4) - 2020-02-05
 <br>Simulation-Based Random Variable Objects
 * **[glatos-spatial_workshop_learners](https://github.com/jsta/glatos-spatial_workshop_learners)**: [Data](https://github.com/jsta/glatos-spatial_workshop_learners/releases/tag/0.0.1) - 2020-01-29
