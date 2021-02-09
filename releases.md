@@ -3,6 +3,8 @@
 All <!-- release_count starts -->37<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[wikilake](https://github.com/jsta/wikilake)**: [0.5.0](https://github.com/jsta/wikilake/releases/tag/0.5.0) - 2021-02-09
+<br>Scrape lake metadata tables from Wikipedia 🏞
 * **[nhdR](https://github.com/jsta/nhdR)**: [0.5.4](https://github.com/jsta/nhdR/releases/tag/0.5.4) - 2021-01-28
 <br>R interface to the National Hydrography Dataset :droplet:
 * **[zoteroscripts](https://github.com/jsta/zoteroscripts)**: [0.0.1](https://github.com/jsta/zoteroscripts/releases/tag/v0.0.1) - 2021-01-07
@@ -11,8 +13,6 @@ All <!-- release_count starts -->37<!-- release_count ends --> of my released pr
 <br>Docker wrapper around NatCap's InVEST
 * **[LAGOSNE](https://github.com/cont-limno/LAGOSNE)**: [v2.0.2](https://github.com/cont-limno/LAGOSNE/releases/tag/v2.0.2) - 2020-11-29
 <br>Interface to the LAke multi-scaled GeOSpatial & temporal database :earth_americas:
-* **[wikilake](https://github.com/jsta/wikilake)**: [0.4](https://github.com/jsta/wikilake/releases/tag/0.4) - 2020-11-19
-<br>Scrape lake metadata tables from Wikipedia 🏞
 * **[nhdpy](https://github.com/jsta/nhdpy)**: [0.1.0](https://github.com/jsta/nhdpy/releases/tag/0.1.0) - 2020-11-13
 <br>A python port of the nhdR package for querying, downloading, and networking the National Hydrography Dataset (NHD) dataset
 * **[LAGOSUSgis](https://github.com/cont-limno/LAGOSUSgis)**: [0.1.0](https://github.com/cont-limno/LAGOSUSgis/releases/tag/0.1.0) - 2020-11-12
