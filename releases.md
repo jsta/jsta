@@ -1,14 +1,22 @@
 # Released projects
 
-All <!-- release_count starts -->37<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->39<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[lagosus-reservoir](https://github.com/cont-limno/lagosus-reservoir)**: [Pre-Release of LAGOSUS-Reservoir](https://github.com/cont-limno/lagosus-reservoir/releases/tag/v1.0) - 2021-02-11
+<br>Data module classifying lakes as natural lakes or reservoirs in the conterminous U.S.
+* **[rjsta](https://github.com/jsta/rjsta)**: [0.1-4](https://github.com/jsta/rjsta/releases/tag/0.1-4) - 2021-02-10
+<br>A wild mix of experimental and classic R functions
+* **[wikilake](https://github.com/jsta/wikilake)**: [0.5.0](https://github.com/jsta/wikilake/releases/tag/0.5.0) - 2021-02-09
+<br>Scrape lake metadata tables from Wikipedia 🏞
+* **[nhdR](https://github.com/jsta/nhdR)**: [0.5.4](https://github.com/jsta/nhdR/releases/tag/0.5.4) - 2021-01-28
+<br>R interface to the National Hydrography Dataset :droplet:
+* **[zoteroscripts](https://github.com/jsta/zoteroscripts)**: [0.0.1](https://github.com/jsta/zoteroscripts/releases/tag/v0.0.1) - 2021-01-07
+<br>Recipes for managing your Zotero library with `pyzotero`
 * **[natcap-invest-docker](https://github.com/jsta/natcap-invest-docker)**: [v0.0.1](https://github.com/jsta/natcap-invest-docker/releases/tag/0.0.1) - 2020-12-27
 <br>Docker wrapper around NatCap's InVEST
 * **[LAGOSNE](https://github.com/cont-limno/LAGOSNE)**: [v2.0.2](https://github.com/cont-limno/LAGOSNE/releases/tag/v2.0.2) - 2020-11-29
 <br>Interface to the LAke multi-scaled GeOSpatial & temporal database :earth_americas:
-* **[wikilake](https://github.com/jsta/wikilake)**: [0.4](https://github.com/jsta/wikilake/releases/tag/0.4) - 2020-11-19
-<br>Scrape lake metadata tables from Wikipedia 🏞
 * **[nhdpy](https://github.com/jsta/nhdpy)**: [0.1.0](https://github.com/jsta/nhdpy/releases/tag/0.1.0) - 2020-11-13
 <br>A python port of the nhdR package for querying, downloading, and networking the National Hydrography Dataset (NHD) dataset
 * **[LAGOSUSgis](https://github.com/cont-limno/LAGOSUSgis)**: [0.1.0](https://github.com/cont-limno/LAGOSUSgis/releases/tag/0.1.0) - 2020-11-12
@@ -33,8 +41,6 @@ All <!-- release_count starts -->37<!-- release_count ends --> of my released pr
 <br>R package to fetch, cache, and serve the National Eutrophication Survey
 * **[beyond_land_use](https://github.com/CNHLakes/beyond_land_use)**: [0.2](https://github.com/CNHLakes/beyond_land_use/releases/tag/0.2) - 2020-04-23
 <br>Granular measures of agricultural land-use influence lake nitrogen and phosphorus differently at macroscales
-* **[nhdR](https://github.com/jsta/nhdR)**: [0.5.3](https://github.com/jsta/nhdR/releases/tag/0.5.3) - 2020-03-23
-<br>R interface to the National Hydrography Dataset :droplet:
 * **[rv](https://github.com/jsta/rv)**: [2.3.4](https://github.com/jsta/rv/releases/tag/2.3.4) - 2020-02-05
 <br>Simulation-Based Random Variable Objects
 * **[glatos-spatial_workshop_learners](https://github.com/jsta/glatos-spatial_workshop_learners)**: [Data](https://github.com/jsta/glatos-spatial_workshop_learners/releases/tag/0.0.1) - 2020-01-29
@@ -45,8 +51,6 @@ All <!-- release_count starts -->37<!-- release_count ends --> of my released pr
 <br>The National Eutrophication Survey: lake characteristics and historical nutrient concentrations
 * **[gssurgo](https://github.com/jsta/gssurgo)**: [1.0.0](https://github.com/jsta/gssurgo/releases/tag/1.0.0) - 2019-11-19
 <br>Python package enabling an open source gSSURGO workflow
-* **[LivinOnTheEdge](https://github.com/cont-limno/LivinOnTheEdge)**: [Livin' on the Edge: aquatic and semi-aquatic connectivity among lakes in relation to protected areas](https://github.com/cont-limno/LivinOnTheEdge/releases/tag/1.0) - 2019-09-27
-<br>Lake connectivity for aquatic and semi-aquatic species
 * **[geospatial-workshop](https://github.com/datacarpentry/geospatial-workshop)**: [Data Carpentry: Geospatial Workshop Overview, June 2019](https://github.com/datacarpentry/geospatial-workshop/releases/tag/v2019.06.1) - 2019-06-28
 <br>Geospatial Workshop Overview
 * **[r-raster-vector-geospatial](https://github.com/datacarpentry/r-raster-vector-geospatial)**: [Data Carpentry: Introduction to Geospatial Raster and Vector Data with R, June 2019](https://github.com/datacarpentry/r-raster-vector-geospatial/releases/tag/v2019.06.1) - 2019-06-27
