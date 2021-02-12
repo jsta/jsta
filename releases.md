@@ -1,8 +1,12 @@
 # Released projects
 
-All <!-- release_count starts -->37<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->39<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[lagosus-reservoir](https://github.com/cont-limno/lagosus-reservoir)**: [Pre-Release of LAGOSUS-Reservoir](https://github.com/cont-limno/lagosus-reservoir/releases/tag/v1.0) - 2021-02-11
+<br>Data module classifying lakes as natural lakes or reservoirs in the conterminous U.S.
+* **[rjsta](https://github.com/jsta/rjsta)**: [0.1-4](https://github.com/jsta/rjsta/releases/tag/0.1-4) - 2021-02-10
+<br>A wild mix of experimental and classic R functions
 * **[wikilake](https://github.com/jsta/wikilake)**: [0.5.0](https://github.com/jsta/wikilake/releases/tag/0.5.0) - 2021-02-09
 <br>Scrape lake metadata tables from Wikipedia 🏞
 * **[nhdR](https://github.com/jsta/nhdR)**: [0.5.4](https://github.com/jsta/nhdR/releases/tag/0.5.4) - 2021-01-28
