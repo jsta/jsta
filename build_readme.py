@@ -15,15 +15,15 @@ client = GraphqlClient(endpoint="https://api.github.com/graphql")
 
 ## https://stackoverflow.com/a/9161531/3362993
 ## for local builds
-keys = {}
-with open(os.path.expanduser('~/.Renviron')) as myfile:
-    for line in myfile:
-        name, key = line.partition("=")[::2]
-        keys[name.strip()] = str.rstrip(key)
-TOKEN = keys['GITHUB_PAT']
+# keys = {}
+# with open(os.path.expanduser('~/.Renviron')) as myfile:
+#     for line in myfile:
+#         name, key = line.partition("=")[::2]
+#         keys[name.strip()] = str.rstrip(key)
+# TOKEN = keys['GITHUB_PAT']
 
 # comment out below line for local builds
-# TOKEN = os.environ.get("JSTA_TOKEN", "")
+TOKEN = os.environ.get("JSTA_TOKEN", "")
 
 def replace_chunk(content, marker, chunk, inline=False):
     r = re.compile(
