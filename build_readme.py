@@ -15,15 +15,15 @@ client = GraphqlClient(endpoint="https://api.github.com/graphql")
 
 ## https://stackoverflow.com/a/9161531/3362993
 ## for local builds
-# keys = {}
-# with open(os.path.expanduser('~/.Renviron')) as myfile:
-#     for line in myfile:
-#         name, key = line.partition("=")[::2]
-#         keys[name.strip()] = str.rstrip(key)
-# TOKEN = keys['GITHUB_PAT']
+keys = {}
+with open(os.path.expanduser('~/.Renviron')) as myfile:
+    for line in myfile:
+        name, key = line.partition("=")[::2]
+        keys[name.strip()] = str.rstrip(key)
+TOKEN = keys['GITHUB_PAT']
 
 # comment out below line for local builds
-TOKEN = os.environ.get("JSTA_TOKEN", "")
+# TOKEN = os.environ.get("JSTA_TOKEN", "")
 
 def replace_chunk(content, marker, chunk, inline=False):
     r = re.compile(
@@ -149,8 +149,9 @@ if __name__ == "__main__":
     
     # add missing releases
     releases_missing = [{"repo": "smwrQW", "login": "USGS-R", "repo_url": "https://github.com/USGS-R/smwrQW", "description": "Water quality USGS water science R functions.", "keywords": "rstats, fortran", "release": "0.7.13", "published_at": "2017-07-24", "url": "https://github.com/USGS-R/smwrQW/releases/tag/v0.7.13"}]
-    releases.append(releases_missing)    
+    releases.extend(releases_missing)    
 
+    breakpoint()
     releases.sort(key=lambda r: r["published_at"], reverse=True)
 
     with open('releases.json', 'w') as outfile:
