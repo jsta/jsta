@@ -4,11 +4,11 @@ Currently working on [KGML](https://sites.google.com/umn.edu/kgml/home), [LAGOS]
 
 ### Recent releases
 <!-- recent_releases starts -->
-* [lagosus-reservoir Pre-Release of LAGOSUS-Reservoir](https://github.com/cont-limno/lagosus-reservoir/releases/tag/v1.0) - 2021-02-11
 * [rjsta 0.1-4](https://github.com/jsta/rjsta/releases/tag/0.1-4) - 2021-02-10
 * [wikilake 0.5.0](https://github.com/jsta/wikilake/releases/tag/0.5.0) - 2021-02-09
 * [nhdR 0.5.4](https://github.com/jsta/nhdR/releases/tag/0.5.4) - 2021-01-28
 * [zoteroscripts 0.0.1](https://github.com/jsta/zoteroscripts/releases/tag/v0.0.1) - 2021-01-07
+* [natcap-invest-docker v0.0.1](https://github.com/jsta/natcap-invest-docker/releases/tag/0.0.1) - 2020-12-27
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/jsta/jsta/blob/main/releases.md)
 </td><td valign="top">
