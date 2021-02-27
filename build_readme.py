@@ -20,9 +20,9 @@ client = GraphqlClient(endpoint="https://api.github.com/graphql")
 #     for line in myfile:
 #         name, key = line.partition("=")[::2]
 #         keys[name.strip()] = str.rstrip(key)
-#
 # TOKEN = keys['GITHUB_PAT']
 
+# comment out below line for local builds
 TOKEN = os.environ.get("JSTA_TOKEN", "")
 
 def replace_chunk(content, marker, chunk, inline=False):
@@ -142,9 +142,15 @@ def fetch_blog_entries():
 if __name__ == "__main__":
     readme = root / "README.md"
     project_releases = root / "releases.md"
-    releases = fetch_releases(TOKEN)    
+    releases = fetch_releases(TOKEN)
+    # remove bad releases    
     releases = list(filter(lambda r: r["login"] not in ["ropenscilabs", "rbind"], releases))
     releases = list(filter(lambda r: r["repo"] not in ["LAGOS_GIS_Toolbox", "LAGOSClimateSensitivity", "rgrass7sf", "tidybayes", "openbugs", "spnetwork", "LAGOS_NETS", "LivinOnTheEdge", "lagosus-reservoir"], releases))
+    
+    # add missing releases
+    releases_missing = [{"repo": "smwrQW", "login": "USGS-R", "repo_url": "https://github.com/USGS-R/smwrQW", "description": "Water quality USGS water science R functions.", "keywords": "rstats, fortran", "release": "0.7.13", "published_at": "2017-07-24", "url": "https://github.com/USGS-R/smwrQW/releases/tag/v0.7.13"}]
+    releases.append(releases_missing)    
+
     releases.sort(key=lambda r: r["published_at"], reverse=True)
 
     with open('releases.json', 'w') as outfile:
