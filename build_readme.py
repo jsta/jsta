@@ -150,8 +150,7 @@ if __name__ == "__main__":
     # add missing releases
     releases_missing = [{"repo": "smwrQW", "login": "USGS-R", "repo_url": "https://github.com/USGS-R/smwrQW", "description": "Water quality USGS water science R functions.", "keywords": "rstats, fortran", "release": "0.7.13", "published_at": "2017-07-24", "url": "https://github.com/USGS-R/smwrQW/releases/tag/v0.7.13"}]
     releases.extend(releases_missing)    
-
-    breakpoint()
+ 
     releases.sort(key=lambda r: r["published_at"], reverse=True)
 
     with open('releases.json', 'w') as outfile:
