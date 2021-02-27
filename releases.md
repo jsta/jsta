@@ -1,8 +1,12 @@
 # Released projects
 
-All <!-- release_count starts -->39<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->41<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[earthengine](https://github.com/jsta/earthengine)**: [1.0.0](https://github.com/jsta/earthengine/releases/tag/1.0.0) - 2021-02-27
+<br>Are Google Earth Engine analyses reproducible?
+* **[jsta](https://github.com/jsta/jsta)**: [0.0.1](https://github.com/jsta/jsta/releases/tag/0.0.1) - 2021-02-27
+<br>An automated build system for generating a release and blog list for Github profiles
 * **[rjsta](https://github.com/jsta/rjsta)**: [0.1-4](https://github.com/jsta/rjsta/releases/tag/0.1-4) - 2021-02-10
 <br>A wild mix of experimental and classic R functions
 * **[wikilake](https://github.com/jsta/wikilake)**: [0.5.0](https://github.com/jsta/wikilake/releases/tag/0.5.0) - 2021-02-09
