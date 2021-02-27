@@ -1,6 +1,6 @@
 # Released projects
 
-All <!-- release_count starts -->38<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->39<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[rjsta](https://github.com/jsta/rjsta)**: [0.1-4](https://github.com/jsta/rjsta/releases/tag/0.1-4) - 2021-02-10
@@ -77,6 +77,8 @@ All <!-- release_count starts -->38<!-- release_count ends --> of my released pr
 <br>repository containing manuscript describing the lakemorpho R package
 * **[dataflowchl](https://github.com/jsta/dataflowchl)**: [](https://github.com/jsta/dataflowchl/releases/tag/v3) - 2017-08-06
 <br>Improved estimation of phytoplankton abundance and fine-scale water quality features via simultaneous discrete and semi-continuous surveys
+* **[smwrQW](https://github.com/USGS-R/smwrQW)**: [0.7.13](https://github.com/USGS-R/smwrQW/releases/tag/v0.7.13) - 2017-07-24
+<br>Water quality USGS water science R functions.
 * **[DataflowR](https://github.com/jsta/DataflowR)**: [v1.0](https://github.com/jsta/DataflowR/releases/tag/v1.0) - 2017-03-10
 <br>Data handling and interpolation for underway water quality monitoring
 <!-- recent_releases ends -->
