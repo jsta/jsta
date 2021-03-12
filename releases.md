@@ -32,7 +32,7 @@ All <!-- release_count starts -->41<!-- release_count ends --> of my released pr
 * **[nml](https://github.com/jsta/nml)**: [0.0.1](https://github.com/jsta/nml/releases/tag/0.0.1) - 2020-08-07
 <br>An R package for parsing Fortran namelist files :tophat:
 * **[limnopapers](https://github.com/jsta/limnopapers)**: [0.0.1](https://github.com/jsta/limnopapers/releases/tag/0.0.1) - 2020-08-07
-<br>Twitter feed of newly published articles in limnology
+<br>Twitter feed of newly published articles in Limnology
 * **[ipdw](https://github.com/jsta/ipdw)**: [v0.2-9](https://github.com/jsta/ipdw/releases/tag/v0.2-9) - 2020-08-02
 <br>Interpolation by Inverse Path Distance Weighting 🌊
 * **[tikz-lake-fig](https://github.com/jsta/tikz-lake-fig)**: [1.0.0](https://github.com/jsta/tikz-lake-fig/releases/tag/1.0.0) - 2020-05-25
