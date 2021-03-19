@@ -3,6 +3,8 @@
 All <!-- release_count starts -->41<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[dbhydroR](https://github.com/ropensci/dbhydroR)**: [0.2-8](https://github.com/ropensci/dbhydroR/releases/tag/v0.2-8) - 2021-03-16
+<br>R interface to the South Florida Water Management District's DBHYDRO Database :sweat_drops::palm_tree:
 * **[earthengine](https://github.com/jsta/earthengine)**: [1.0.0](https://github.com/jsta/earthengine/releases/tag/1.0.0) - 2021-02-27
 <br>Are Google Earth Engine analyses reproducible?
 * **[jsta](https://github.com/jsta/jsta)**: [0.0.1](https://github.com/jsta/jsta/releases/tag/0.0.1) - 2021-02-27
@@ -59,8 +61,6 @@ All <!-- release_count starts -->41<!-- release_count ends --> of my released pr
 <br>Introduction to Geospatial Raster and Vector Data with R
 * **[organization-geospatial](https://github.com/datacarpentry/organization-geospatial)**: [Data Carpentry: Introduction to Geospatial Concepts, June 2019](https://github.com/datacarpentry/organization-geospatial/releases/tag/v2019.06.1) - 2019-06-27
 <br>Introduction to Geospatial Concepts
-* **[dbhydroR](https://github.com/ropensci/dbhydroR)**: [0.2-7](https://github.com/ropensci/dbhydroR/releases/tag/v0.2-7) - 2019-02-15
-<br>R interface to the South Florida Water Management District's DBHYDRO Database :sweat_drops::palm_tree:
 * **[nes_connectivity_p](https://github.com/jsta/nes_connectivity_p)**: [1.0](https://github.com/jsta/nes_connectivity_p/releases/tag/1.0) - 2019-01-31
 <br>Does Freshwater Connectivity Influence Phosphorus Retention in Lakes?
 * **[nlaR](https://github.com/jsta/nlaR)**: [0.4.9](https://github.com/jsta/nlaR/releases/tag/0.4.9) - 2019-01-30

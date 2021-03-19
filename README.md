@@ -4,11 +4,11 @@ Currently working on [KGML](https://sites.google.com/umn.edu/kgml/home), [LAGOS]
 
 ### Recent releases
 <!-- recent_releases starts -->
+* [dbhydroR 0.2-8](https://github.com/ropensci/dbhydroR/releases/tag/v0.2-8) - 2021-03-16
 * [earthengine 1.0.0](https://github.com/jsta/earthengine/releases/tag/1.0.0) - 2021-02-27
 * [jsta 0.0.1](https://github.com/jsta/jsta/releases/tag/0.0.1) - 2021-02-27
 * [rjsta 0.1-4](https://github.com/jsta/rjsta/releases/tag/0.1-4) - 2021-02-10
 * [wikilake 0.5.0](https://github.com/jsta/wikilake/releases/tag/0.5.0) - 2021-02-09
-* [nhdR 0.5.4](https://github.com/jsta/nhdR/releases/tag/0.5.4) - 2021-01-28
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/jsta/jsta/blob/main/releases.md)
 </td><td valign="top">
