@@ -3,6 +3,8 @@
 All <!-- release_count starts -->42<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[nhdR](https://github.com/jsta/nhdR)**: [0.5.5](https://github.com/jsta/nhdR/releases/tag/0.5.5) - 2021-06-06
+<br>R interface to the National Hydrography Dataset :droplet:
 * **[dbhydroR](https://github.com/ropensci/dbhydroR)**: [0.2-8](https://github.com/ropensci/dbhydroR/releases/tag/v0.2-8) - 2021-03-16
 <br>R interface to the South Florida Water Management District's DBHYDRO Database :sweat_drops::palm_tree:
 * **[earthengine](https://github.com/jsta/earthengine)**: [1.0.0](https://github.com/jsta/earthengine/releases/tag/1.0.0) - 2021-02-27
@@ -13,8 +15,6 @@ All <!-- release_count starts -->42<!-- release_count ends --> of my released pr
 <br>A wild mix of experimental and classic R functions
 * **[wikilake](https://github.com/jsta/wikilake)**: [0.5.0](https://github.com/jsta/wikilake/releases/tag/0.5.0) - 2021-02-09
 <br>Scrape lake metadata tables from Wikipedia 🏞
-* **[nhdR](https://github.com/jsta/nhdR)**: [0.5.4](https://github.com/jsta/nhdR/releases/tag/0.5.4) - 2021-01-28
-<br>R interface to the National Hydrography Dataset :droplet:
 * **[zoteroscripts](https://github.com/jsta/zoteroscripts)**: [0.0.1](https://github.com/jsta/zoteroscripts/releases/tag/v0.0.1) - 2021-01-07
 <br>Recipes for managing your Zotero library with `pyzotero`
 * **[natcap-invest-docker](https://github.com/jsta/natcap-invest-docker)**: [v0.0.1](https://github.com/jsta/natcap-invest-docker/releases/tag/0.0.1) - 2020-12-27
