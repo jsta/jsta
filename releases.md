@@ -3,6 +3,10 @@
 All <!-- release_count starts -->42<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[limnopapers](https://github.com/jsta/limnopapers)**: [1.0.0](https://github.com/jsta/limnopapers/releases/tag/1.0.0) - 2021-07-14
+<br>Twitter feed of newly published articles in Limnology
+* **[LAGOSUSgis](https://github.com/cont-limno/LAGOSUSgis)**: [0.1.2](https://github.com/cont-limno/LAGOSUSgis/releases/tag/0.1.2) - 2021-07-12
+<br>Extra functions to interact with the GIS module of LAGOSUS
 * **[nhdR](https://github.com/jsta/nhdR)**: [0.5.5](https://github.com/jsta/nhdR/releases/tag/0.5.5) - 2021-06-06
 <br>R interface to the National Hydrography Dataset :droplet:
 * **[dbhydroR](https://github.com/ropensci/dbhydroR)**: [0.2-8](https://github.com/ropensci/dbhydroR/releases/tag/v0.2-8) - 2021-03-16
@@ -23,8 +27,6 @@ All <!-- release_count starts -->42<!-- release_count ends --> of my released pr
 <br>Interface to the LAke multi-scaled GeOSpatial & temporal database :earth_americas:
 * **[nhdpy](https://github.com/jsta/nhdpy)**: [0.1.0](https://github.com/jsta/nhdpy/releases/tag/0.1.0) - 2020-11-13
 <br>A python port of the nhdR package for querying, downloading, and networking the National Hydrography Dataset (NHD) dataset
-* **[LAGOSUSgis](https://github.com/cont-limno/LAGOSUSgis)**: [0.1.0](https://github.com/cont-limno/LAGOSUSgis/releases/tag/0.1.0) - 2020-11-12
-<br>Extra functions to interact with the GIS module of LAGOSUS
 * **[ipdw_ms_stachmadden_2015](https://github.com/jsta/ipdw_ms_stachmadden_2015)**: [](https://github.com/jsta/ipdw_ms_stachmadden_2015/releases/tag/0.1) - 2020-10-27
 <br>Application of inverse path distance weighting for high-density spatial mapping of coastal water quality patterns
 * **[LAGOSNEgis](https://github.com/cont-limno/LAGOSNEgis)**: [0.1.1](https://github.com/cont-limno/LAGOSNEgis/releases/tag/0.1.1) - 2020-08-19
@@ -33,8 +35,6 @@ All <!-- release_count starts -->42<!-- release_count ends --> of my released pr
 <br>Building the General Lake Model (GLM) with Docker 
 * **[nml](https://github.com/jsta/nml)**: [0.0.1](https://github.com/jsta/nml/releases/tag/0.0.1) - 2020-08-07
 <br>An R package for parsing Fortran namelist files :tophat:
-* **[limnopapers](https://github.com/jsta/limnopapers)**: [0.0.1](https://github.com/jsta/limnopapers/releases/tag/0.0.1) - 2020-08-07
-<br>Twitter feed of newly published articles in Limnology
 * **[ipdw](https://github.com/jsta/ipdw)**: [v0.2-9](https://github.com/jsta/ipdw/releases/tag/v0.2-9) - 2020-08-02
 <br>Interpolation by Inverse Path Distance Weighting 🌊
 * **[tikz-lake-fig](https://github.com/jsta/tikz-lake-fig)**: [1.0.0](https://github.com/jsta/tikz-lake-fig/releases/tag/1.0.0) - 2020-05-25
