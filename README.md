@@ -1,4 +1,3 @@
-Currently working on [KGML](https://sites.google.com/umn.edu/kgml/home), [LAGOS](https://lagoslakes.org), and associated projects. 
 
 <table><tr><td valign="top">
 

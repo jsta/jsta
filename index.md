@@ -1,4 +1,3 @@
-Currently working on [KGML](https://sites.google.com/umn.edu/kgml/home), [LAGOS](https://lagoslakes.org), and associated projects. Read [my blog](https://jsta.rbind.io/blog) or follow [@__jsta](https://twitter.com/__jsta) on Twitter.
 
 <table><tr><td valign="top">
 
