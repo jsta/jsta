@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->42<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->43<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[gleon-spatial_workshop_learners](https://github.com/jsta/gleon-spatial_workshop_learners)**: [0.0.2](https://github.com/jsta/gleon-spatial_workshop_learners/releases/tag/0.0.2) - 2021-09-22
+<br>None
 * **[nhdR](https://github.com/jsta/nhdR)**: [0.5.6](https://github.com/jsta/nhdR/releases/tag/0.5.6) - 2021-07-21
 <br>R interface to the National Hydrography Dataset :droplet:
 * **[limnopapers](https://github.com/jsta/limnopapers)**: [1.0.0](https://github.com/jsta/limnopapers/releases/tag/1.0.0) - 2021-07-14

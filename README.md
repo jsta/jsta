@@ -3,11 +3,11 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
+* [gleon-spatial_workshop_learners 0.0.2](https://github.com/jsta/gleon-spatial_workshop_learners/releases/tag/0.0.2) - 2021-09-22
 * [nhdR 0.5.6](https://github.com/jsta/nhdR/releases/tag/0.5.6) - 2021-07-21
 * [limnopapers 1.0.0](https://github.com/jsta/limnopapers/releases/tag/1.0.0) - 2021-07-14
 * [LAGOSUSgis 0.1.2](https://github.com/cont-limno/LAGOSUSgis/releases/tag/0.1.2) - 2021-07-12
 * [dbhydroR 0.2-8](https://github.com/ropensci/dbhydroR/releases/tag/v0.2-8) - 2021-03-16
-* [earthengine 1.0.0](https://github.com/jsta/earthengine/releases/tag/1.0.0) - 2021-02-27
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/jsta/jsta/blob/main/releases.md)
 </td><td valign="top">
