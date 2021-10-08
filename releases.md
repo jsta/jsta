@@ -3,6 +3,8 @@
 All <!-- release_count starts -->43<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[wikilake](https://github.com/jsta/wikilake)**: [0.6.0](https://github.com/jsta/wikilake/releases/tag/0.6.0) - 2021-10-05
+<br>Scrape lake metadata tables from Wikipedia 🏞
 * **[gleon-spatial_workshop_learners](https://github.com/jsta/gleon-spatial_workshop_learners)**: [0.0.2](https://github.com/jsta/gleon-spatial_workshop_learners/releases/tag/0.0.2) - 2021-09-22
 <br>Materials for an R geospatial workshop at the GLEON 2021 meeting
 * **[nhdR](https://github.com/jsta/nhdR)**: [0.5.6](https://github.com/jsta/nhdR/releases/tag/0.5.6) - 2021-07-21
@@ -19,8 +21,6 @@ All <!-- release_count starts -->43<!-- release_count ends --> of my released pr
 <br>An automated build system for generating a release and blog list for Github profiles
 * **[rjsta](https://github.com/jsta/rjsta)**: [0.1-4](https://github.com/jsta/rjsta/releases/tag/0.1-4) - 2021-02-10
 <br>A wild mix of experimental and classic R functions
-* **[wikilake](https://github.com/jsta/wikilake)**: [0.5.0](https://github.com/jsta/wikilake/releases/tag/0.5.0) - 2021-02-09
-<br>Scrape lake metadata tables from Wikipedia 🏞
 * **[zoteroscripts](https://github.com/jsta/zoteroscripts)**: [0.0.1](https://github.com/jsta/zoteroscripts/releases/tag/v0.0.1) - 2021-01-07
 <br>Recipes for managing your Zotero library with `pyzotero`
 * **[natcap-invest-docker](https://github.com/jsta/natcap-invest-docker)**: [v0.0.1](https://github.com/jsta/natcap-invest-docker/releases/tag/0.0.1) - 2020-12-27
