@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->43<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->44<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[metabolism_phenology](https://github.com/LimnoDataScience/metabolism_phenology)**: [L&O_firstRevision](https://github.com/LimnoDataScience/metabolism_phenology/releases/tag/v0.1) - 2021-10-14
+<br>Scripts, model configurations and outputs to process the data and recreate the figures from Ladwig et al. (2021): Long-term Change in Metabolism Phenology in North-Temperate Lakes.
 * **[wikilake](https://github.com/jsta/wikilake)**: [0.6.0](https://github.com/jsta/wikilake/releases/tag/0.6.0) - 2021-10-05
 <br>Scrape lake metadata tables from Wikipedia 🏞
 * **[gleon-spatial_workshop_learners](https://github.com/jsta/gleon-spatial_workshop_learners)**: [0.0.2](https://github.com/jsta/gleon-spatial_workshop_learners/releases/tag/0.0.2) - 2021-09-22
