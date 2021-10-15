@@ -166,6 +166,7 @@ if __name__ == "__main__":
                 "LAGOS_NETS",
                 "LivinOnTheEdge",
                 "lagosus-reservoir",
+                "metabolism_phenology"
             ],
             releases,
         )
