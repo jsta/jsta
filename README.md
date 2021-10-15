@@ -3,11 +3,11 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
-* [metabolism_phenology L&O_firstRevision](https://github.com/LimnoDataScience/metabolism_phenology/releases/tag/v0.1) - 2021-10-14
 * [wikilake 0.6.0](https://github.com/jsta/wikilake/releases/tag/0.6.0) - 2021-10-05
 * [gleon-spatial_workshop_learners 0.0.2](https://github.com/jsta/gleon-spatial_workshop_learners/releases/tag/0.0.2) - 2021-09-22
 * [nhdR 0.5.6](https://github.com/jsta/nhdR/releases/tag/0.5.6) - 2021-07-21
 * [limnopapers 1.0.0](https://github.com/limnopapers/limnopapers/releases/tag/1.0.0) - 2021-07-14
+* [LAGOSUSgis 0.1.2](https://github.com/cont-limno/LAGOSUSgis/releases/tag/0.1.2) - 2021-07-12
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/jsta/jsta/blob/main/releases.md)
 </td><td valign="top">
