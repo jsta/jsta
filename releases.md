@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->43<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->44<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[pysparrow](https://github.com/jsta/pysparrow)**: [0.4](https://github.com/jsta/pysparrow/releases/tag/0.4) - 2021-11-03
+<br>Forked from: code.google.com/p/pysparrow
 * **[wikilake](https://github.com/jsta/wikilake)**: [0.6.0](https://github.com/jsta/wikilake/releases/tag/0.6.0) - 2021-10-05
 <br>Scrape lake metadata tables from Wikipedia 🏞
 * **[gleon-spatial_workshop_learners](https://github.com/jsta/gleon-spatial_workshop_learners)**: [0.0.2](https://github.com/jsta/gleon-spatial_workshop_learners/releases/tag/0.0.2) - 2021-09-22
