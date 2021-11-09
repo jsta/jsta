@@ -26,19 +26,11 @@ jobs:
       - uses: actions/checkout@v2
       
       - uses: lowlighter/metrics@v3.15
-        with:  
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
           plugin_achievements: yes
           plugin_achievements_threshold: B      # Display achievements with rank B or higher
           plugin_achievements_secrets: yes      # Display unlocked secrets achievements
           plugin_achievements_display: compact  # Use compact display
           plugin_achievements_limit: 0          # Display all unlocked achievements (no limit)
-
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo Hello, world!
-
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
-        run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+      
