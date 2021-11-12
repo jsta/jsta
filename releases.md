@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->44<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->46<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[bathymetry](https://github.com/cont-limno/bathymetry)**: [Accepted at Inland Waters](https://github.com/cont-limno/bathymetry/releases/tag/0.4) - 2021-11-11
+<br>Imperfect slope measurements drive overestimation in geometric cone model of lake and reservoir depth
 * **[pysparrow](https://github.com/jsta/pysparrow)**: [0.4](https://github.com/jsta/pysparrow/releases/tag/0.4) - 2021-11-03
 <br>Forked from: code.google.com/p/pysparrow
 * **[wikilake](https://github.com/jsta/wikilake)**: [0.6.0](https://github.com/jsta/wikilake/releases/tag/0.6.0) - 2021-10-05
@@ -41,6 +43,8 @@ All <!-- release_count starts -->44<!-- release_count ends --> of my released pr
 <br>An R package for parsing Fortran namelist files :tophat:
 * **[ipdw](https://github.com/jsta/ipdw)**: [v0.2-9](https://github.com/jsta/ipdw/releases/tag/v0.2-9) - 2020-08-02
 <br>Interpolation by Inverse Path Distance Weighting 🌊
+* **[dissertation](https://github.com/jsta/dissertation)**: [accepted](https://github.com/jsta/dissertation/releases/tag/accepted) - 2020-07-10
+<br>Spatial Patterning of Lake Nutrients and Morphometry at Macroscales: Importance of Regional Factors and Aquatic-Terrestrial Linkages
 * **[tikz-lake-fig](https://github.com/jsta/tikz-lake-fig)**: [1.0.0](https://github.com/jsta/tikz-lake-fig/releases/tag/1.0.0) - 2020-05-25
 <br>Collection of lake diagrams for use in LaTeX documents 
 * **[dams](https://github.com/jsta/dams)**: [0.3.0](https://github.com/jsta/dams/releases/tag/0.3.0) - 2020-05-22
