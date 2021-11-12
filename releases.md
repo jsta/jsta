@@ -3,7 +3,7 @@
 All <!-- release_count starts -->46<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[bathymetry](https://github.com/cont-limno/bathymetry)**: [Accepted at Inland Waters](https://github.com/cont-limno/bathymetry/releases/tag/0.4) - 2021-11-11
+* **[bathymetry](https://github.com/cont-limno/bathymetry)**: [0.4](https://github.com/cont-limno/bathymetry/releases/tag/0.4) - 2021-11-11
 <br>Imperfect slope measurements drive overestimation in geometric cone model of lake and reservoir depth
 * **[pysparrow](https://github.com/jsta/pysparrow)**: [0.4](https://github.com/jsta/pysparrow/releases/tag/0.4) - 2021-11-03
 <br>Forked from: code.google.com/p/pysparrow
