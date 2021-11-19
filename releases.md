@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->46<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->48<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[rabpro](https://github.com/jonschwenk/rabpro)**: [v0.2.2](https://github.com/jonschwenk/rabpro/releases/tag/v0.2.2) - 2021-11-12
+<br>None
 * **[bathymetry](https://github.com/cont-limno/bathymetry)**: [0.4](https://github.com/cont-limno/bathymetry/releases/tag/0.4) - 2021-11-11
 <br>Imperfect slope measurements drive overestimation in geometric cone model of lake and reservoir depth
 * **[pysparrow](https://github.com/jsta/pysparrow)**: [0.4](https://github.com/jsta/pysparrow/releases/tag/0.4) - 2021-11-03
@@ -23,6 +25,8 @@ All <!-- release_count starts -->46<!-- release_count ends --> of my released pr
 <br>Are Google Earth Engine analyses reproducible?
 * **[jsta](https://github.com/jsta/jsta)**: [0.0.1](https://github.com/jsta/jsta/releases/tag/0.0.1) - 2021-02-27
 <br>An automated build system for generating a release and blog list for Github profiles
+* **[LAGOSUS](https://github.com/cont-limno/LAGOSUS)**: [v0.0.3](https://github.com/cont-limno/LAGOSUS/releases/tag/v0.0.3) - 2021-02-26
+<br>Interface to the LAke multi-scaled GeOSpatial & temporal database :earth_americas:
 * **[rjsta](https://github.com/jsta/rjsta)**: [0.1-4](https://github.com/jsta/rjsta/releases/tag/0.1-4) - 2021-02-10
 <br>A wild mix of experimental and classic R functions
 * **[zoteroscripts](https://github.com/jsta/zoteroscripts)**: [0.0.1](https://github.com/jsta/zoteroscripts/releases/tag/v0.0.1) - 2021-01-07
