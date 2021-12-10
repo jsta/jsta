@@ -3,6 +3,8 @@
 All <!-- release_count starts -->48<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[limnopapers](https://github.com/limnopapers/limnopapers)**: [1.0.2](https://github.com/limnopapers/limnopapers/releases/tag/1.0.2) - 2021-12-03
+<br>Twitter feed of newly published articles in Limnology
 * **[rabpro](https://github.com/jonschwenk/rabpro)**: [v0.2.2](https://github.com/jonschwenk/rabpro/releases/tag/v0.2.2) - 2021-11-12
 <br>None
 * **[bathymetry](https://github.com/cont-limno/bathymetry)**: [0.4](https://github.com/cont-limno/bathymetry/releases/tag/0.4) - 2021-11-11
@@ -15,8 +17,6 @@ All <!-- release_count starts -->48<!-- release_count ends --> of my released pr
 <br>Materials for an R geospatial workshop at the GLEON 2021 meeting
 * **[nhdR](https://github.com/jsta/nhdR)**: [0.5.6](https://github.com/jsta/nhdR/releases/tag/0.5.6) - 2021-07-21
 <br>R interface to the National Hydrography Dataset :droplet:
-* **[limnopapers](https://github.com/limnopapers/limnopapers)**: [1.0.0](https://github.com/limnopapers/limnopapers/releases/tag/1.0.0) - 2021-07-14
-<br>Twitter feed of newly published articles in Limnology
 * **[LAGOSUSgis](https://github.com/cont-limno/LAGOSUSgis)**: [0.1.2](https://github.com/cont-limno/LAGOSUSgis/releases/tag/0.1.2) - 2021-07-12
 <br>Extra functions to interact with the GIS module of LAGOSUS
 * **[dbhydroR](https://github.com/ropensci/dbhydroR)**: [0.2-8](https://github.com/ropensci/dbhydroR/releases/tag/v0.2-8) - 2021-03-16
