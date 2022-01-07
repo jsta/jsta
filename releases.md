@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->48<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->46<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[nhdR](https://github.com/jsta/nhdR)**: [0.5.7](https://github.com/jsta/nhdR/releases/tag/0.5.7) - 2022-01-03
+<br>R interface to the National Hydrography Dataset :droplet:
 * **[limnopapers](https://github.com/limnopapers/limnopapers)**: [1.0.2](https://github.com/limnopapers/limnopapers/releases/tag/1.0.2) - 2021-12-03
 <br>Twitter feed of newly published articles in Limnology
 * **[rabpro](https://github.com/jonschwenk/rabpro)**: [v0.2.2](https://github.com/jonschwenk/rabpro/releases/tag/v0.2.2) - 2021-11-12
@@ -15,8 +17,6 @@ All <!-- release_count starts -->48<!-- release_count ends --> of my released pr
 <br>Scrape lake metadata tables from Wikipedia 🏞
 * **[gleon-spatial_workshop_learners](https://github.com/jsta/gleon-spatial_workshop_learners)**: [0.0.2](https://github.com/jsta/gleon-spatial_workshop_learners/releases/tag/0.0.2) - 2021-09-22
 <br>Materials for an R geospatial workshop at the GLEON 2021 meeting
-* **[nhdR](https://github.com/jsta/nhdR)**: [0.5.6](https://github.com/jsta/nhdR/releases/tag/0.5.6) - 2021-07-21
-<br>R interface to the National Hydrography Dataset :droplet:
 * **[LAGOSUSgis](https://github.com/cont-limno/LAGOSUSgis)**: [0.1.2](https://github.com/cont-limno/LAGOSUSgis/releases/tag/0.1.2) - 2021-07-12
 <br>Extra functions to interact with the GIS module of LAGOSUS
 * **[dbhydroR](https://github.com/ropensci/dbhydroR)**: [0.2-8](https://github.com/ropensci/dbhydroR/releases/tag/v0.2-8) - 2021-03-16
@@ -71,16 +71,12 @@ All <!-- release_count starts -->48<!-- release_count ends --> of my released pr
 <br>Geospatial Workshop Overview
 * **[r-raster-vector-geospatial](https://github.com/datacarpentry/r-raster-vector-geospatial)**: [Data Carpentry: Introduction to Geospatial Raster and Vector Data with R, June 2019](https://github.com/datacarpentry/r-raster-vector-geospatial/releases/tag/v2019.06.1) - 2019-06-27
 <br>Introduction to Geospatial Raster and Vector Data with R
-* **[organization-geospatial](https://github.com/datacarpentry/organization-geospatial)**: [Data Carpentry: Introduction to Geospatial Concepts, June 2019](https://github.com/datacarpentry/organization-geospatial/releases/tag/v2019.06.1) - 2019-06-27
-<br>Introduction to Geospatial Concepts
 * **[nes_connectivity_p](https://github.com/jsta/nes_connectivity_p)**: [1.0](https://github.com/jsta/nes_connectivity_p/releases/tag/1.0) - 2019-01-31
 <br>Does Freshwater Connectivity Influence Phosphorus Retention in Lakes?
 * **[nlaR](https://github.com/jsta/nlaR)**: [0.4.9](https://github.com/jsta/nlaR/releases/tag/0.4.9) - 2019-01-30
 <br>R interface to the National Lakes Assessment
 * **[streamnet](https://github.com/jsta/streamnet)**: [0.2.0](https://github.com/jsta/streamnet/releases/tag/0.2.0) - 2019-01-25
 <br>Morphology analysis of stream networks 🍃
-* **[r-intro-geospatial](https://github.com/datacarpentry/r-intro-geospatial)**: [Introduction to R for Geospatial Data August 2018 Release](https://github.com/datacarpentry/r-intro-geospatial/releases/tag/v2018.08.1) - 2018-08-28
-<br>Introduction to R for Geospatial Data
 * **[looseleaf](https://github.com/jsta/looseleaf)**: [](https://github.com/jsta/looseleaf/releases/tag/v1.0.0) - 2018-06-01
 <br>Research compendium template for tracking, linking, and sharing data explorations
 * **[peatcollapse_methods](https://github.com/jsta/peatcollapse_methods)**: [0.1](https://github.com/jsta/peatcollapse_methods/releases/tag/v0.1) - 2017-12-16
