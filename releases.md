@@ -1,14 +1,14 @@
 # Released projects
 
-All <!-- release_count starts -->46<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->47<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[nhdR](https://github.com/jsta/nhdR)**: [0.5.7](https://github.com/jsta/nhdR/releases/tag/0.5.7) - 2022-01-03
 <br>R interface to the National Hydrography Dataset :droplet:
 * **[limnopapers](https://github.com/limnopapers/limnopapers)**: [1.0.2](https://github.com/limnopapers/limnopapers/releases/tag/1.0.2) - 2021-12-03
 <br>Twitter feed of newly published articles in Limnology
-* **[rabpro](https://github.com/jonschwenk/rabpro)**: [v0.2.2](https://github.com/jonschwenk/rabpro/releases/tag/v0.2.2) - 2021-11-12
-<br>None
+* **[rabpro](https://github.com/VeinsOfTheEarth/rabpro)**: [v0.2.2](https://github.com/VeinsOfTheEarth/rabpro/releases/tag/v0.2.2) - 2021-11-12
+<br>Package to delineate subbasins and compute statistics
 * **[bathymetry](https://github.com/cont-limno/bathymetry)**: [0.4](https://github.com/cont-limno/bathymetry/releases/tag/0.4) - 2021-11-11
 <br>Imperfect slope measurements drive overestimation in geometric cone model of lake and reservoir depth
 * **[pysparrow](https://github.com/jsta/pysparrow)**: [0.4](https://github.com/jsta/pysparrow/releases/tag/0.4) - 2021-11-03
@@ -77,6 +77,8 @@ All <!-- release_count starts -->46<!-- release_count ends --> of my released pr
 <br>R interface to the National Lakes Assessment
 * **[streamnet](https://github.com/jsta/streamnet)**: [0.2.0](https://github.com/jsta/streamnet/releases/tag/0.2.0) - 2019-01-25
 <br>Morphology analysis of stream networks 🍃
+* **[r-intro-geospatial](https://github.com/datacarpentry/r-intro-geospatial)**: [Introduction to R for Geospatial Data August 2018 Release](https://github.com/datacarpentry/r-intro-geospatial/releases/tag/v2018.08.1) - 2018-08-28
+<br>Introduction to R for Geospatial Data
 * **[looseleaf](https://github.com/jsta/looseleaf)**: [](https://github.com/jsta/looseleaf/releases/tag/v1.0.0) - 2018-06-01
 <br>Research compendium template for tracking, linking, and sharing data explorations
 * **[peatcollapse_methods](https://github.com/jsta/peatcollapse_methods)**: [0.1](https://github.com/jsta/peatcollapse_methods/releases/tag/v0.1) - 2017-12-16

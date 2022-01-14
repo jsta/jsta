@@ -5,7 +5,7 @@
 <!-- recent_releases starts -->
 * [nhdR 0.5.7](https://github.com/jsta/nhdR/releases/tag/0.5.7) - 2022-01-03
 * [limnopapers 1.0.2](https://github.com/limnopapers/limnopapers/releases/tag/1.0.2) - 2021-12-03
-* [rabpro v0.2.2](https://github.com/jonschwenk/rabpro/releases/tag/v0.2.2) - 2021-11-12
+* [rabpro v0.2.2](https://github.com/VeinsOfTheEarth/rabpro/releases/tag/v0.2.2) - 2021-11-12
 * [bathymetry 0.4](https://github.com/cont-limno/bathymetry/releases/tag/0.4) - 2021-11-11
 * [pysparrow 0.4](https://github.com/jsta/pysparrow/releases/tag/0.4) - 2021-11-03
 <!-- recent_releases ends -->
