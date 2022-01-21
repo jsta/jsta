@@ -8,7 +8,7 @@ All <!-- release_count starts -->47<!-- release_count ends --> of my released pr
 * **[limnopapers](https://github.com/limnopapers/limnopapers)**: [1.0.2](https://github.com/limnopapers/limnopapers/releases/tag/1.0.2) - 2021-12-03
 <br>Twitter feed of newly published articles in Limnology
 * **[rabpro](https://github.com/VeinsOfTheEarth/rabpro)**: [v0.2.2](https://github.com/VeinsOfTheEarth/rabpro/releases/tag/v0.2.2) - 2021-11-12
-<br>Package to delineate subbasins and compute statistics
+<br>Package to delineate watershed subbasins, compute statistics, and gather attributes
 * **[bathymetry](https://github.com/cont-limno/bathymetry)**: [0.4](https://github.com/cont-limno/bathymetry/releases/tag/0.4) - 2021-11-11
 <br>Imperfect slope measurements drive overestimation in geometric cone model of lake and reservoir depth
 * **[pysparrow](https://github.com/jsta/pysparrow)**: [0.4](https://github.com/jsta/pysparrow/releases/tag/0.4) - 2021-11-03
