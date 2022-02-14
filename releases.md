@@ -3,6 +3,8 @@
 All <!-- release_count starts -->47<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[rv](https://github.com/jsta/rv)**: [2.3.5](https://github.com/jsta/rv/releases/tag/2.3.5) - 2022-02-13
+<br>Simulation-Based Random Variable Objects
 * **[rabpro](https://github.com/VeinsOfTheEarth/rabpro)**: [v0.3.0](https://github.com/VeinsOfTheEarth/rabpro/releases/tag/v0.3.0) - 2022-01-28
 <br>River and basin profiler
 * **[nhdR](https://github.com/jsta/nhdR)**: [0.5.7](https://github.com/jsta/nhdR/releases/tag/0.5.7) - 2022-01-03
@@ -57,8 +59,6 @@ All <!-- release_count starts -->47<!-- release_count ends --> of my released pr
 <br>R package to fetch, cache, and serve the National Eutrophication Survey
 * **[beyond_land_use](https://github.com/CNHLakes/beyond_land_use)**: [0.2](https://github.com/CNHLakes/beyond_land_use/releases/tag/0.2) - 2020-04-23
 <br>Granular measures of agricultural land-use influence lake nitrogen and phosphorus differently at macroscales
-* **[rv](https://github.com/jsta/rv)**: [2.3.4](https://github.com/jsta/rv/releases/tag/2.3.4) - 2020-02-05
-<br>Simulation-Based Random Variable Objects
 * **[glatos-spatial_workshop_learners](https://github.com/jsta/glatos-spatial_workshop_learners)**: [Data](https://github.com/jsta/glatos-spatial_workshop_learners/releases/tag/0.0.1) - 2020-01-29
 <br>GLATOS - Working with Geospatial Data
 * **[wq-prediction](https://github.com/cont-limno/wq-prediction)**: [1.0.0](https://github.com/cont-limno/wq-prediction/releases/tag/1.0.0) - 2020-01-13
