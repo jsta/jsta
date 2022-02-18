@@ -3,10 +3,10 @@
 All <!-- release_count starts -->47<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[rabpro](https://github.com/VeinsOfTheEarth/rabpro)**: [v0.3.1](https://github.com/VeinsOfTheEarth/rabpro/releases/tag/v0.3.1) - 2022-02-15
+<br>River and basin profiler
 * **[rv](https://github.com/jsta/rv)**: [2.3.5](https://github.com/jsta/rv/releases/tag/2.3.5) - 2022-02-13
 <br>Simulation-Based Random Variable Objects
-* **[rabpro](https://github.com/VeinsOfTheEarth/rabpro)**: [v0.3.0](https://github.com/VeinsOfTheEarth/rabpro/releases/tag/v0.3.0) - 2022-01-28
-<br>River and basin profiler
 * **[nhdR](https://github.com/jsta/nhdR)**: [0.5.7](https://github.com/jsta/nhdR/releases/tag/0.5.7) - 2022-01-03
 <br>R interface to the National Hydrography Dataset :droplet:
 * **[limnopapers](https://github.com/limnopapers/limnopapers)**: [1.0.2](https://github.com/limnopapers/limnopapers/releases/tag/1.0.2) - 2021-12-03
