@@ -3,7 +3,7 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
-* [rabpro v0.3.1](https://github.com/VeinsOfTheEarth/rabpro/releases/tag/v0.3.1) - 2022-02-15
+* [rabpro 0.4.0](https://github.com/VeinsOfTheEarth/rabpro/releases/tag/v0.4.0) - 2022-02-28
 * [rv 2.3.5](https://github.com/jsta/rv/releases/tag/2.3.5) - 2022-02-13
 * [nhdR 0.5.7](https://github.com/jsta/nhdR/releases/tag/0.5.7) - 2022-01-03
 * [limnopapers 1.0.2](https://github.com/limnopapers/limnopapers/releases/tag/1.0.2) - 2021-12-03
