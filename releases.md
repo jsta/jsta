@@ -1,6 +1,6 @@
 # Released projects
 
-All <!-- release_count starts -->47<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->48<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[rabpro](https://github.com/VeinsOfTheEarth/rabpro)**: [0.4.0](https://github.com/VeinsOfTheEarth/rabpro/releases/tag/v0.4.0) - 2022-02-28
@@ -71,6 +71,8 @@ All <!-- release_count starts -->47<!-- release_count ends --> of my released pr
 <br>Geospatial Workshop Overview
 * **[r-raster-vector-geospatial](https://github.com/datacarpentry/r-raster-vector-geospatial)**: [Data Carpentry: Introduction to Geospatial Raster and Vector Data with R, June 2019](https://github.com/datacarpentry/r-raster-vector-geospatial/releases/tag/v2019.06.1) - 2019-06-27
 <br>Introduction to Geospatial Raster and Vector Data with R
+* **[organization-geospatial](https://github.com/datacarpentry/organization-geospatial)**: [Data Carpentry: Introduction to Geospatial Concepts, June 2019](https://github.com/datacarpentry/organization-geospatial/releases/tag/v2019.06.1) - 2019-06-27
+<br>Introduction to Geospatial Concepts
 * **[nes_connectivity_p](https://github.com/jsta/nes_connectivity_p)**: [1.0](https://github.com/jsta/nes_connectivity_p/releases/tag/1.0) - 2019-01-31
 <br>Does Freshwater Connectivity Influence Phosphorus Retention in Lakes?
 * **[nlaR](https://github.com/jsta/nlaR)**: [0.4.9](https://github.com/jsta/nlaR/releases/tag/0.4.9) - 2019-01-30
