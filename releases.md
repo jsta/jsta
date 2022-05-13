@@ -88,7 +88,7 @@ All <!-- release_count starts -->48<!-- release_count ends --> of my released pr
 * **[nsws](https://github.com/jsta/nsws)**: [v0.1](https://github.com/jsta/nsws/releases/tag/0.1) - 2017-12-14
 <br>National Surface Water Survey Package
 * **[data-packages](https://github.com/ropensci-archive/data-packages)**: [1.0.0](https://github.com/ropensci-archive/data-packages/releases/tag/1.0.0) - 2017-12-07
-<br>:no_entry: ARCHIVED :no_entry:The State Of Data On CRAN: Discovering Good Data Packages
+<br>:no_entry: ARCHIVED :no_entry: 
 * **[nesR](https://github.com/jsta/nesR)**: [](https://github.com/jsta/nesR/releases/tag/v0.3) - 2017-11-13
 <br>Scrape Data from the National Eutrophication Survey
 * **[lakemorpho_manuscript](https://github.com/jhollist/lakemorpho_manuscript)**: [Submission version for F1000Research](https://github.com/jhollist/lakemorpho_manuscript/releases/tag/v1.0) - 2017-08-31
