@@ -3,7 +3,7 @@
 All <!-- release_count starts -->48<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[rabpro](https://github.com/VeinsOfTheEarth/rabpro)**: [0.4.0](https://github.com/VeinsOfTheEarth/rabpro/releases/tag/v0.4.0) - 2022-02-28
+* **[rabpro](https://github.com/VeinsOfTheEarth/rabpro)**: [0.5.2](https://github.com/VeinsOfTheEarth/rabpro/releases/tag/v0.5.2) - 2022-05-31
 <br>River and basin profiler
 * **[rv](https://github.com/jsta/rv)**: [2.3.5](https://github.com/jsta/rv/releases/tag/2.3.5) - 2022-02-13
 <br>Simulation-Based Random Variable Objects
