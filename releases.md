@@ -1,6 +1,6 @@
 # Released projects
 
-All <!-- release_count starts -->48<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->49<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[rabpro](https://github.com/VeinsOfTheEarth/rabpro)**: [0.5.2](https://github.com/VeinsOfTheEarth/rabpro/releases/tag/v0.5.2) - 2022-05-31
@@ -23,6 +23,8 @@ All <!-- release_count starts -->48<!-- release_count ends --> of my released pr
 <br>Extra functions to interact with the GIS module of LAGOSUS
 * **[dbhydroR](https://github.com/ropensci/dbhydroR)**: [0.2-8](https://github.com/ropensci/dbhydroR/releases/tag/v0.2-8) - 2021-03-16
 <br>R interface to the South Florida Water Management District's DBHYDRO Database :sweat_drops::palm_tree:
+* **[RivGraph](https://github.com/jonschwenk/RivGraph)**: [Corresponds to publication in JOSS](https://github.com/jonschwenk/RivGraph/releases/tag/v0.4) - 2021-03-09
+<br>Extracting and quantifying graphical representations of river and delta channel networks from binary masks
 * **[earthengine](https://github.com/jsta/earthengine)**: [1.0.0](https://github.com/jsta/earthengine/releases/tag/1.0.0) - 2021-02-27
 <br>Are Google Earth Engine analyses reproducible?
 * **[jsta](https://github.com/jsta/jsta)**: [0.0.1](https://github.com/jsta/jsta/releases/tag/0.0.1) - 2021-02-27
