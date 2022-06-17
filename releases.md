@@ -4,7 +4,7 @@ All <!-- release_count starts -->49<!-- release_count ends --> of my released pr
 
 <!-- recent_releases starts -->
 * **[rabpro](https://github.com/VeinsOfTheEarth/rabpro)**: [0.5.2](https://github.com/VeinsOfTheEarth/rabpro/releases/tag/v0.5.2) - 2022-05-31
-<br>River and basin profiler
+<br>Package to delineate watershed basins and compute attribute statistics using Google Earth Engine.
 * **[rv](https://github.com/jsta/rv)**: [2.3.5](https://github.com/jsta/rv/releases/tag/2.3.5) - 2022-02-13
 <br>Simulation-Based Random Variable Objects
 * **[nhdR](https://github.com/jsta/nhdR)**: [0.5.7](https://github.com/jsta/nhdR/releases/tag/0.5.7) - 2022-01-03
@@ -23,7 +23,7 @@ All <!-- release_count starts -->49<!-- release_count ends --> of my released pr
 <br>Extra functions to interact with the GIS module of LAGOSUS
 * **[dbhydroR](https://github.com/ropensci/dbhydroR)**: [0.2-8](https://github.com/ropensci/dbhydroR/releases/tag/v0.2-8) - 2021-03-16
 <br>R interface to the South Florida Water Management District's DBHYDRO Database :sweat_drops::palm_tree:
-* **[RivGraph](https://github.com/jonschwenk/RivGraph)**: [Corresponds to publication in JOSS](https://github.com/jonschwenk/RivGraph/releases/tag/v0.4) - 2021-03-09
+* **[RivGraph](https://github.com/VeinsOfTheEarth/RivGraph)**: [Corresponds to publication in JOSS](https://github.com/VeinsOfTheEarth/RivGraph/releases/tag/v0.4) - 2021-03-09
 <br>Extracting and quantifying graphical representations of river and delta channel networks from binary masks
 * **[earthengine](https://github.com/jsta/earthengine)**: [1.0.0](https://github.com/jsta/earthengine/releases/tag/1.0.0) - 2021-02-27
 <br>Are Google Earth Engine analyses reproducible?
