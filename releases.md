@@ -4,7 +4,7 @@ All <!-- release_count starts -->49<!-- release_count ends --> of my released pr
 
 <!-- recent_releases starts -->
 * **[rabpro](https://github.com/VeinsOfTheEarth/rabpro)**: [0.5.2](https://github.com/VeinsOfTheEarth/rabpro/releases/tag/v0.5.2) - 2022-05-31
-<br>Package to delineate watershed basins and compute attribute statistics using Google Earth Engine.
+<br>Delineating watershed basins and computing attribute statistics using Google Earth Engine
 * **[rv](https://github.com/jsta/rv)**: [2.3.5](https://github.com/jsta/rv/releases/tag/2.3.5) - 2022-02-13
 <br>Simulation-Based Random Variable Objects
 * **[nhdR](https://github.com/jsta/nhdR)**: [0.5.7](https://github.com/jsta/nhdR/releases/tag/0.5.7) - 2022-01-03
