@@ -1,12 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->53<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->52<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[rabpro](https://github.com/VeinsOfTheEarth/rabpro)**: [0.5.2](https://github.com/VeinsOfTheEarth/rabpro/releases/tag/v0.5.2) - 2022-05-31
 <br>Delineating watershed basins and computing attribute statistics using Google Earth Engine
-* **[pyflowline_icom](https://github.com/DOE-ICoM/pyflowline_icom)**: [0.1.1](https://github.com/DOE-ICoM/pyflowline_icom/releases/tag/0.1.1) - 2022-03-15
-<br>The MPAS version of PyFlowline
 * **[rv](https://github.com/jsta/rv)**: [2.3.5](https://github.com/jsta/rv/releases/tag/2.3.5) - 2022-02-13
 <br>Simulation-Based Random Variable Objects
 * **[nhdR](https://github.com/jsta/nhdR)**: [0.5.7](https://github.com/jsta/nhdR/releases/tag/0.5.7) - 2022-01-03
