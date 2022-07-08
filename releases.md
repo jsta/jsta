@@ -1,10 +1,12 @@
 # Released projects
 
-All <!-- release_count starts -->49<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->53<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[rabpro](https://github.com/VeinsOfTheEarth/rabpro)**: [0.5.2](https://github.com/VeinsOfTheEarth/rabpro/releases/tag/v0.5.2) - 2022-05-31
 <br>Delineating watershed basins and computing attribute statistics using Google Earth Engine
+* **[pyflowline_icom](https://github.com/DOE-ICoM/pyflowline_icom)**: [0.1.1](https://github.com/DOE-ICoM/pyflowline_icom/releases/tag/0.1.1) - 2022-03-15
+<br>The MPAS version of PyFlowline
 * **[rv](https://github.com/jsta/rv)**: [2.3.5](https://github.com/jsta/rv/releases/tag/2.3.5) - 2022-02-13
 <br>Simulation-Based Random Variable Objects
 * **[nhdR](https://github.com/jsta/nhdR)**: [0.5.7](https://github.com/jsta/nhdR/releases/tag/0.5.7) - 2022-01-03
@@ -19,8 +21,12 @@ All <!-- release_count starts -->49<!-- release_count ends --> of my released pr
 <br>Scrape lake metadata tables from Wikipedia 🏞
 * **[gleon-spatial_workshop_learners](https://github.com/jsta/gleon-spatial_workshop_learners)**: [0.0.2](https://github.com/jsta/gleon-spatial_workshop_learners/releases/tag/0.0.2) - 2021-09-22
 <br>Materials for an R geospatial workshop at the GLEON 2021 meeting
+* **[tebaldi-etal_2021_natclimchange](https://github.com/DOE-ICoM/tebaldi-etal_2021_natclimchange)**: [v1.0 Initial Release](https://github.com/DOE-ICoM/tebaldi-etal_2021_natclimchange/releases/tag/v1.0) - 2021-07-14
+<br>Meta repository for data and code associated with the Tebaldi et al. 2021 paper in Nature Climate Change.
 * **[LAGOSUSgis](https://github.com/cont-limno/LAGOSUSgis)**: [0.1.2](https://github.com/cont-limno/LAGOSUSgis/releases/tag/0.1.2) - 2021-07-12
 <br>Extra functions to interact with the GIS module of LAGOSUS
+* **[tropicalcyclone_MLP](https://github.com/DOE-ICoM/tropicalcyclone_MLP)**: [](https://github.com/DOE-ICoM/tropicalcyclone_MLP/releases/tag/v1.0) - 2021-05-26
+<br>Deep Neural Network based tropical cyclone intensity forecast model.
 * **[dbhydroR](https://github.com/ropensci/dbhydroR)**: [0.2-8](https://github.com/ropensci/dbhydroR/releases/tag/v0.2-8) - 2021-03-16
 <br>R interface to the South Florida Water Management District's DBHYDRO Database :sweat_drops::palm_tree:
 * **[RivGraph](https://github.com/VeinsOfTheEarth/RivGraph)**: [Corresponds to publication in JOSS](https://github.com/VeinsOfTheEarth/RivGraph/releases/tag/v0.4) - 2021-03-09
@@ -43,6 +49,8 @@ All <!-- release_count starts -->49<!-- release_count ends --> of my released pr
 <br>A python port of the nhdR package for querying, downloading, and networking the National Hydrography Dataset (NHD) dataset
 * **[ipdw_ms_stachmadden_2015](https://github.com/jsta/ipdw_ms_stachmadden_2015)**: [](https://github.com/jsta/ipdw_ms_stachmadden_2015/releases/tag/0.1) - 2020-10-27
 <br>Application of inverse path distance weighting for high-density spatial mapping of coastal water quality patterns
+* **[icom-mesh-data](https://github.com/DOE-ICoM/icom-mesh-data)**: [](https://github.com/DOE-ICoM/icom-mesh-data/releases/tag/v0.1.0) - 2020-09-22
+<br>The "unified" multi-model meshing datasets.
 * **[LAGOSNEgis](https://github.com/cont-limno/LAGOSNEgis)**: [0.1.1](https://github.com/cont-limno/LAGOSNEgis/releases/tag/0.1.1) - 2020-08-19
 <br>Extra functions to interact with the GIS module of LAGOSNE
 * **[GLM_docker](https://github.com/jsta/GLM_docker)**: [v3.1.0](https://github.com/jsta/GLM_docker/releases/tag/v3.1.0) - 2020-08-12
