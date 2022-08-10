@@ -1,14 +1,18 @@
 # Released projects
 
-All <!-- release_count starts -->52<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->53<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[nhdR](https://github.com/jsta/nhdR)**: [0.5.8](https://github.com/jsta/nhdR/releases/tag/0.5.8) - 2022-08-10
+<br>R interface to the National Hydrography Dataset :droplet:
+* **[wql](https://github.com/jsta/wql)**: [v1.0.0](https://github.com/jsta/wql/releases/tag/v1.0.0) - 2022-08-10
+<br>Water Quality - Lite : Exploring Water Quality Monitoring Data
+* **[RivGraph](https://github.com/VeinsOfTheEarth/RivGraph)**: [v0.5.0](https://github.com/VeinsOfTheEarth/RivGraph/releases/tag/v0.5.0) - 2022-08-08
+<br>Extracting and quantifying graphical representations of river and delta channel networks from binary masks
 * **[rabpro](https://github.com/VeinsOfTheEarth/rabpro)**: [0.5.2](https://github.com/VeinsOfTheEarth/rabpro/releases/tag/v0.5.2) - 2022-05-31
 <br>Delineating watershed basins and computing attribute statistics using Google Earth Engine
 * **[rv](https://github.com/jsta/rv)**: [2.3.5](https://github.com/jsta/rv/releases/tag/2.3.5) - 2022-02-13
 <br>Simulation-Based Random Variable Objects
-* **[nhdR](https://github.com/jsta/nhdR)**: [0.5.7](https://github.com/jsta/nhdR/releases/tag/0.5.7) - 2022-01-03
-<br>R interface to the National Hydrography Dataset :droplet:
 * **[limnopapers](https://github.com/limnopapers/limnopapers)**: [1.0.2](https://github.com/limnopapers/limnopapers/releases/tag/1.0.2) - 2021-12-03
 <br>Twitter feed of newly published articles in Limnology
 * **[bathymetry](https://github.com/cont-limno/bathymetry)**: [0.4](https://github.com/cont-limno/bathymetry/releases/tag/0.4) - 2021-11-11
@@ -27,8 +31,6 @@ All <!-- release_count starts -->52<!-- release_count ends --> of my released pr
 <br>Deep Neural Network based tropical cyclone intensity forecast model.
 * **[dbhydroR](https://github.com/ropensci/dbhydroR)**: [0.2-8](https://github.com/ropensci/dbhydroR/releases/tag/v0.2-8) - 2021-03-16
 <br>R interface to the South Florida Water Management District's DBHYDRO Database :sweat_drops::palm_tree:
-* **[RivGraph](https://github.com/VeinsOfTheEarth/RivGraph)**: [Corresponds to publication in JOSS](https://github.com/VeinsOfTheEarth/RivGraph/releases/tag/v0.4) - 2021-03-09
-<br>Extracting and quantifying graphical representations of river and delta channel networks from binary masks
 * **[earthengine](https://github.com/jsta/earthengine)**: [1.0.0](https://github.com/jsta/earthengine/releases/tag/1.0.0) - 2021-02-27
 <br>Are Google Earth Engine analyses reproducible?
 * **[jsta](https://github.com/jsta/jsta)**: [0.0.1](https://github.com/jsta/jsta/releases/tag/0.0.1) - 2021-02-27
