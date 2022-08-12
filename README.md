@@ -6,8 +6,8 @@
 * [nhdR 0.5.8](https://github.com/jsta/nhdR/releases/tag/0.5.8) - 2022-08-10
 * [wql v1.0.0](https://github.com/jsta/wql/releases/tag/v1.0.0) - 2022-08-10
 * [RivGraph v0.5.0](https://github.com/VeinsOfTheEarth/RivGraph/releases/tag/v0.5.0) - 2022-08-10
-* [liao-etal_2022_pyflowline_james Initial release](https://github.com/DOE-ICoM/liao-etal_2022_pyflowline_james/releases/tag/0.1.0) - 2022-08-10
 * [rabpro 0.5.2](https://github.com/VeinsOfTheEarth/rabpro/releases/tag/v0.5.2) - 2022-05-31
+* [rv 2.3.5](https://github.com/jsta/rv/releases/tag/2.3.5) - 2022-02-13
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/jsta/jsta/blob/main/releases.md)
 </td><td valign="top">
