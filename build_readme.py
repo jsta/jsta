@@ -167,7 +167,11 @@ if __name__ == "__main__":
                 "LivinOnTheEdge",
                 "lagosus-reservoir",
                 "metabolism_phenology",
-                "pyflowline_icom"
+                "pyflowline_icom",
+                "liao-etal_2022_pyflowline_james",
+                "tebaldi-etal_2021_natclimchange",
+                "tropicalcyclone_MLP",
+                "icom-mesh-data"
             ],
             releases,
         )
