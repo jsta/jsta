@@ -1,26 +1,27 @@
-from python_graphql_client import GraphqlClient
-import feedparser
-import json
-import pathlib
 import re
 import os
-import datetime
 import json
+import pathlib
+import datetime
+import feedparser
 import pandas as pd
+from python_graphql_client import GraphqlClient
 
 
-root = pathlib.Path(__file__).parent.resolve()
+try:
+    root = pathlib.Path(__file__).parent.resolve()
+except:
+    root = pathlib.Path()
 client = GraphqlClient(endpoint="https://api.github.com/graphql")
 
 ## https://stackoverflow.com/a/9161531/3362993
 ## for local builds
 # keys = {}
-# with open(os.path.expanduser('~/.Renviron')) as myfile:
+# with open(os.path.expanduser("~/.Renviron")) as myfile:
 #     for line in myfile:
 #         name, key = line.partition("=")[::2]
 #         keys[name.strip()] = str.rstrip(key)
-# TOKEN = keys['GITHUB_PAT']
-# root = pathlib.Path()
+# TOKEN = keys["GITHUB_PAT"]
 
 # comment out below line for local builds
 TOKEN = os.environ.get("JSTA_TOKEN", "")
@@ -60,7 +61,7 @@ query {
         owner {
             login
         }
-        releases(last:1) {
+        releases(first:1) {
           totalCount          
           nodes {
             name
@@ -85,14 +86,15 @@ def fetch_releases(oauth_token):
     after_cursor = None
 
     while has_next_page:
-        # oauth_token = TOKEN
         data = client.execute(
             query=make_query(after_cursor),
             headers={"Authorization": "Bearer {}".format(oauth_token)},
         )
-        print()
-        print(json.dumps(data, indent=4))
-        print()
+
+        # print()
+        # print(json.dumps(data, indent=4))
+        # print()
+
         for repo in data["data"]["viewer"]["repositories"]["nodes"]:
             # repo = data["data"]["viewer"]["repositories"]["nodes"][0]
             if repo["releases"]["totalCount"] and repo["name"] not in repo_names:
@@ -123,10 +125,8 @@ def fetch_releases(oauth_token):
                         "url": repo["releases"]["nodes"][0]["url"],
                     }
                 )
-        has_next_page = data["data"]["viewer"]["repositories"]["pageInfo"][
-            "hasNextPage"
-        ]
         after_cursor = data["data"]["viewer"]["repositories"]["pageInfo"]["endCursor"]
+        has_next_page = after_cursor
     return releases
 
 
