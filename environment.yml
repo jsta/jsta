@@ -1,0 +1,14 @@
+name: jsta
+channels:
+- conda-forge
+dependencies:
+        - python>3
+        - pandas        
+        - pytest
+        - pip
+        - feedparser
+        - httpx
+        - black
+        - pip:
+                - python_graphql_client
+
