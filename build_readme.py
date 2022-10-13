@@ -21,6 +21,7 @@ client = GraphqlClient(endpoint="https://api.github.com/graphql")
 #         name, key = line.partition("=")[::2]
 #         keys[name.strip()] = str.rstrip(key)
 # TOKEN = keys['GITHUB_PAT']
+# root = pathlib.Path()
 
 # comment out below line for local builds
 TOKEN = os.environ.get("JSTA_TOKEN", "")
@@ -149,9 +150,13 @@ if __name__ == "__main__":
     readme = root / "README.md"
     project_releases = root / "releases.md"
     releases = fetch_releases(TOKEN)
+
+    # test = pd.DataFrame(releases)
+    # test[test["repo"] == "nhdR"]
+
     # remove bad releases
     releases = list(
-        filter(lambda r: r["login"] not in ["ropenscilabs", "rbind"], releases)
+        filter(lambda r: r["login"] not in ["ropenscilabs", "rbind", "DOE-ICoM"], releases)
     )
     releases = list(
         filter(
