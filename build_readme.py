@@ -1,6 +1,5 @@
 from python_graphql_client import GraphqlClient
 import feedparser
-import httpx
 import json
 import pathlib
 import re
@@ -156,7 +155,9 @@ if __name__ == "__main__":
 
     # remove bad releases
     releases = list(
-        filter(lambda r: r["login"] not in ["ropenscilabs", "rbind", "DOE-ICoM"], releases)
+        filter(
+            lambda r: r["login"] not in ["ropenscilabs", "rbind", "DOE-ICoM"], releases
+        )
     )
     releases = list(
         filter(
@@ -176,7 +177,7 @@ if __name__ == "__main__":
                 "liao-etal_2022_pyflowline_james",
                 "tebaldi-etal_2021_natclimchange",
                 "tropicalcyclone_MLP",
-                "icom-mesh-data"
+                "icom-mesh-data",
             ],
             releases,
         )
