@@ -13,7 +13,7 @@ All <!-- release_count starts -->50<!-- release_count ends --> of my released pr
 <br>Delineating watershed basins and computing attribute statistics using Google Earth Engine
 * **[rv](https://github.com/jsta/rv)**: [2.3.5](https://github.com/jsta/rv/releases/tag/2.3.5) - 2022-02-13
 <br>Simulation-Based Random Variable Objects
-* **[limnopapers](https://github.com/limnopapers/limnopapers)**: [1.0.2](https://github.com/limnopapers/limnopapers/releases/tag/1.0.2) - 2021-12-03
+* **[limnopapers](https://github.com/feedpapers/limnopapers)**: [1.0.2](https://github.com/feedpapers/limnopapers/releases/tag/1.0.2) - 2021-12-03
 <br>Twitter feed of newly published articles in Limnology
 * **[bathymetry](https://github.com/cont-limno/bathymetry)**: [0.4](https://github.com/cont-limno/bathymetry/releases/tag/0.4) - 2021-11-11
 <br>Imperfect slope measurements drive overestimation in geometric cone model of lake and reservoir depth
