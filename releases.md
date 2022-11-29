@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->50<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->51<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[geowq-chesapeake](https://github.com/DOE-ICoM/geowq-chesapeake)**: [0.0.4](https://github.com/DOE-ICoM/geowq-chesapeake/releases/tag/v0.0.4) - 2022-11-17
+<br>Geographically aware estimates of remotely sensed water properties for Chesapeake Bay.
 * **[nhdR](https://github.com/jsta/nhdR)**: [0.5.9](https://github.com/jsta/nhdR/releases/tag/0.5.9) - 2022-10-09
 <br>R interface to the National Hydrography Dataset :droplet:
 * **[wql](https://github.com/jsta/wql)**: [v1.0.0](https://github.com/jsta/wql/releases/tag/v1.0.0) - 2022-08-10

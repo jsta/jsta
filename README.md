@@ -3,11 +3,11 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
+* [geowq-chesapeake 0.0.4](https://github.com/DOE-ICoM/geowq-chesapeake/releases/tag/v0.0.4) - 2022-11-17
 * [nhdR 0.5.9](https://github.com/jsta/nhdR/releases/tag/0.5.9) - 2022-10-09
 * [wql v1.0.0](https://github.com/jsta/wql/releases/tag/v1.0.0) - 2022-08-10
 * [RivGraph v0.5.0](https://github.com/VeinsOfTheEarth/RivGraph/releases/tag/v0.5.0) - 2022-08-10
 * [rabpro 0.5.2](https://github.com/VeinsOfTheEarth/rabpro/releases/tag/v0.5.2) - 2022-05-31
-* [rv 2.3.5](https://github.com/jsta/rv/releases/tag/2.3.5) - 2022-02-13
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/jsta/jsta/blob/main/releases.md)
 </td><td valign="top">
