@@ -194,7 +194,17 @@ if __name__ == "__main__":
             "release": "0.7.13",
             "published_at": "2017-07-24",
             "url": "https://github.com/USGS-R/smwrQW/releases/tag/v0.7.13",
-        }
+        },
+        {
+            "repo": "geowq-chesapeake",
+            "login": "DOE-ICoM",
+            "repo_url": "https://github.com/DOE-ICoM/geowq-chesapeake",
+            "description": "Geographically aware estimates of remotely sensed water properties for Chesapeake Bay.",
+            "keywords": "python, manuscript, research-compendium",
+            "release": "0.0.4",
+            "published_at": "2022-11-17",
+            "url": "https://github.com/DOE-ICoM/geowq-chesapeake/releases/tag/v0.0.4",
+        },
     ]
     releases.extend(releases_missing)
 
