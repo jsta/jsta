@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->51<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->52<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[pareto_lake_area](https://github.com/VeinsOfTheEarth/pareto_lake_area)**: [2nd Revision to LnO: Methods](https://github.com/VeinsOfTheEarth/pareto_lake_area/releases/tag/0.3) - 2022-12-19
+<br>Quantifying uncertainty in Pareto estimates of global lake area
 * **[geowq-chesapeake](https://github.com/DOE-ICoM/geowq-chesapeake)**: [0.0.4](https://github.com/DOE-ICoM/geowq-chesapeake/releases/tag/v0.0.4) - 2022-11-17
 <br>Geographically aware estimates of remotely sensed water properties for Chesapeake Bay.
 * **[nhdR](https://github.com/jsta/nhdR)**: [0.5.9](https://github.com/jsta/nhdR/releases/tag/0.5.9) - 2022-10-09
@@ -16,7 +18,7 @@ All <!-- release_count starts -->51<!-- release_count ends --> of my released pr
 * **[rv](https://github.com/jsta/rv)**: [2.3.5](https://github.com/jsta/rv/releases/tag/2.3.5) - 2022-02-13
 <br>Simulation-Based Random Variable Objects
 * **[limnopapers](https://github.com/feedpapers/limnopapers)**: [1.0.2](https://github.com/feedpapers/limnopapers/releases/tag/1.0.2) - 2021-12-03
-<br>Twitter feed of newly published articles in Limnology
+<br>Feed of newly published articles in Limnology
 * **[bathymetry](https://github.com/cont-limno/bathymetry)**: [0.4](https://github.com/cont-limno/bathymetry/releases/tag/0.4) - 2021-11-11
 <br>Imperfect slope measurements drive overestimation in geometric cone model of lake and reservoir depth
 * **[pysparrow](https://github.com/jsta/pysparrow)**: [0.4](https://github.com/jsta/pysparrow/releases/tag/0.4) - 2021-11-03
