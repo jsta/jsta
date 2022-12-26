@@ -3,7 +3,7 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
-* [pareto_lake_area 2nd Revision to LnO: Methods](https://github.com/VeinsOfTheEarth/pareto_lake_area/releases/tag/0.3) - 2022-12-19
+* [pareto_lake_area 0.3](https://github.com/VeinsOfTheEarth/pareto_lake_area/releases/tag/0.3) - 2022-12-19
 * [geowq-chesapeake 0.0.4](https://github.com/DOE-ICoM/geowq-chesapeake/releases/tag/v0.0.4) - 2022-11-17
 * [nhdR 0.5.9](https://github.com/jsta/nhdR/releases/tag/0.5.9) - 2022-10-09
 * [wql v1.0.0](https://github.com/jsta/wql/releases/tag/v1.0.0) - 2022-08-10

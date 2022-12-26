@@ -3,7 +3,7 @@
 All <!-- release_count starts -->52<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[pareto_lake_area](https://github.com/VeinsOfTheEarth/pareto_lake_area)**: [2nd Revision to LnO: Methods](https://github.com/VeinsOfTheEarth/pareto_lake_area/releases/tag/0.3) - 2022-12-19
+* **[pareto_lake_area](https://github.com/VeinsOfTheEarth/pareto_lake_area)**: [0.3](https://github.com/VeinsOfTheEarth/pareto_lake_area/releases/tag/0.3) - 2022-12-19
 <br>Quantifying uncertainty in Pareto estimates of global lake area
 * **[geowq-chesapeake](https://github.com/DOE-ICoM/geowq-chesapeake)**: [0.0.4](https://github.com/DOE-ICoM/geowq-chesapeake/releases/tag/v0.0.4) - 2022-11-17
 <br>Geographically aware estimates of remotely sensed water properties for Chesapeake Bay.
