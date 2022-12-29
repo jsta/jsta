@@ -201,9 +201,9 @@ if __name__ == "__main__":
             "repo_url": "https://github.com/DOE-ICoM/geowq-chesapeake",
             "description": "Geographically aware estimates of remotely sensed water properties for Chesapeake Bay.",
             "keywords": "python, manuscript, research-compendium",
-            "release": "0.0.4",
-            "published_at": "2022-11-17",
-            "url": "https://github.com/DOE-ICoM/geowq-chesapeake/releases/tag/v0.0.4",
+            "release": "1.0.0",
+            "published_at": "2022-12-29",
+            "url": "https://github.com/DOE-ICoM/geowq-chesapeake/releases/tag/v1.0.0",
         },
     ]
     releases.extend(releases_missing)
