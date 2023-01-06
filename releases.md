@@ -3,6 +3,8 @@
 All <!-- release_count starts -->52<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[ipdw](https://github.com/jsta/ipdw)**: [v2.0-0](https://github.com/jsta/ipdw/releases/tag/v2.0-0) - 2023-01-06
+<br>Interpolation by Inverse Path Distance Weighting 🌊
 * **[geowq-chesapeake](https://github.com/DOE-ICoM/geowq-chesapeake)**: [1.0.0](https://github.com/DOE-ICoM/geowq-chesapeake/releases/tag/v1.0.0) - 2022-12-29
 <br>Geographically aware estimates of remotely sensed water properties for Chesapeake Bay.
 * **[pareto_lake_area](https://github.com/VeinsOfTheEarth/pareto_lake_area)**: [0.3](https://github.com/VeinsOfTheEarth/pareto_lake_area/releases/tag/0.3) - 2022-12-19
@@ -55,8 +57,6 @@ All <!-- release_count starts -->52<!-- release_count ends --> of my released pr
 <br>Building the General Lake Model (GLM) with Docker 
 * **[nml](https://github.com/jsta/nml)**: [0.0.1](https://github.com/jsta/nml/releases/tag/0.0.1) - 2020-08-07
 <br>An R package for parsing Fortran namelist files :tophat:
-* **[ipdw](https://github.com/jsta/ipdw)**: [v0.2-9](https://github.com/jsta/ipdw/releases/tag/v0.2-9) - 2020-08-02
-<br>Interpolation by Inverse Path Distance Weighting 🌊
 * **[dissertation](https://github.com/jsta/dissertation)**: [accepted](https://github.com/jsta/dissertation/releases/tag/accepted) - 2020-07-10
 <br>Spatial Patterning of Lake Nutrients and Morphometry at Macroscales: Importance of Regional Factors and Aquatic-Terrestrial Linkages
 * **[tikz-lake-fig](https://github.com/jsta/tikz-lake-fig)**: [1.0.0](https://github.com/jsta/tikz-lake-fig/releases/tag/1.0.0) - 2020-05-25
