@@ -5,6 +5,8 @@ All <!-- release_count starts -->52<!-- release_count ends --> of my released pr
 <!-- recent_releases starts -->
 * **[ipdw](https://github.com/jsta/ipdw)**: [v2.0-0](https://github.com/jsta/ipdw/releases/tag/v2.0-0) - 2023-01-06
 <br>Interpolation by Inverse Path Distance Weighting 🌊
+* **[wikilake](https://github.com/jsta/wikilake)**: [0.7.0](https://github.com/jsta/wikilake/releases/tag/0.7.0) - 2023-01-06
+<br>Scrape lake metadata tables from Wikipedia 🏞
 * **[geowq-chesapeake](https://github.com/DOE-ICoM/geowq-chesapeake)**: [1.0.0](https://github.com/DOE-ICoM/geowq-chesapeake/releases/tag/v1.0.0) - 2022-12-29
 <br>Geographically aware estimates of remotely sensed water properties for Chesapeake Bay.
 * **[pareto_lake_area](https://github.com/VeinsOfTheEarth/pareto_lake_area)**: [0.3](https://github.com/VeinsOfTheEarth/pareto_lake_area/releases/tag/0.3) - 2022-12-19
@@ -25,8 +27,6 @@ All <!-- release_count starts -->52<!-- release_count ends --> of my released pr
 <br>Imperfect slope measurements drive overestimation in geometric cone model of lake and reservoir depth
 * **[pysparrow](https://github.com/jsta/pysparrow)**: [0.4](https://github.com/jsta/pysparrow/releases/tag/0.4) - 2021-11-03
 <br>Forked from: code.google.com/p/pysparrow
-* **[wikilake](https://github.com/jsta/wikilake)**: [0.6.0](https://github.com/jsta/wikilake/releases/tag/0.6.0) - 2021-10-05
-<br>Scrape lake metadata tables from Wikipedia 🏞
 * **[gleon-spatial_workshop_learners](https://github.com/jsta/gleon-spatial_workshop_learners)**: [0.0.2](https://github.com/jsta/gleon-spatial_workshop_learners/releases/tag/0.0.2) - 2021-09-22
 <br>Materials for an R geospatial workshop at the GLEON 2021 meeting
 * **[LAGOSUSgis](https://github.com/cont-limno/LAGOSUSgis)**: [0.1.2](https://github.com/cont-limno/LAGOSUSgis/releases/tag/0.1.2) - 2021-07-12
