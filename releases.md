@@ -3,14 +3,16 @@
 All <!-- release_count starts -->52<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[pareto_lake_area](https://github.com/VeinsOfTheEarth/pareto_lake_area)**: [1.0](https://github.com/VeinsOfTheEarth/pareto_lake_area/releases/tag/1.0) - 2023-02-07
+<br>Quantifying uncertainty in Pareto estimates of global lake area
+* **[r-raster-vector-geospatial](https://github.com/datacarpentry/r-raster-vector-geospatial)**: [Data Carpentry: Introduction to Geospatial Raster and Vector Data with R, February 2023](https://github.com/datacarpentry/r-raster-vector-geospatial/releases/tag/v2023.02.06) - 2023-02-06
+<br>Introduction to Geospatial Raster and Vector Data with R
 * **[ipdw](https://github.com/jsta/ipdw)**: [v2.0-0](https://github.com/jsta/ipdw/releases/tag/v2.0-0) - 2023-01-06
 <br>Interpolation by Inverse Path Distance Weighting 🌊
 * **[wikilake](https://github.com/jsta/wikilake)**: [0.7.0](https://github.com/jsta/wikilake/releases/tag/0.7.0) - 2023-01-06
 <br>Scrape lake metadata tables from Wikipedia 🏞
 * **[geowq-chesapeake](https://github.com/DOE-ICoM/geowq-chesapeake)**: [1.0.0](https://github.com/DOE-ICoM/geowq-chesapeake/releases/tag/v1.0.0) - 2022-12-29
 <br>Geographically aware estimates of remotely sensed water properties for Chesapeake Bay.
-* **[pareto_lake_area](https://github.com/VeinsOfTheEarth/pareto_lake_area)**: [0.3](https://github.com/VeinsOfTheEarth/pareto_lake_area/releases/tag/0.3) - 2022-12-19
-<br>Quantifying uncertainty in Pareto estimates of global lake area
 * **[nhdR](https://github.com/jsta/nhdR)**: [0.5.9](https://github.com/jsta/nhdR/releases/tag/0.5.9) - 2022-10-09
 <br>R interface to the National Hydrography Dataset :droplet:
 * **[wql](https://github.com/jsta/wql)**: [v1.0.0](https://github.com/jsta/wql/releases/tag/v1.0.0) - 2022-08-10
@@ -77,8 +79,6 @@ All <!-- release_count starts -->52<!-- release_count ends --> of my released pr
 <br>Python package enabling an open source gSSURGO workflow
 * **[geospatial-workshop](https://github.com/datacarpentry/geospatial-workshop)**: [Data Carpentry: Geospatial Workshop Overview, June 2019](https://github.com/datacarpentry/geospatial-workshop/releases/tag/v2019.06.1) - 2019-06-28
 <br>Geospatial Workshop Overview
-* **[r-raster-vector-geospatial](https://github.com/datacarpentry/r-raster-vector-geospatial)**: [Data Carpentry: Introduction to Geospatial Raster and Vector Data with R, June 2019](https://github.com/datacarpentry/r-raster-vector-geospatial/releases/tag/v2019.06.1) - 2019-06-27
-<br>Introduction to Geospatial Raster and Vector Data with R
 * **[organization-geospatial](https://github.com/datacarpentry/organization-geospatial)**: [Data Carpentry: Introduction to Geospatial Concepts, June 2019](https://github.com/datacarpentry/organization-geospatial/releases/tag/v2019.06.1) - 2019-06-27
 <br>Introduction to Geospatial Concepts
 * **[nes_connectivity_p](https://github.com/jsta/nes_connectivity_p)**: [1.0](https://github.com/jsta/nes_connectivity_p/releases/tag/1.0) - 2019-01-31
