@@ -4,7 +4,7 @@
 ### Recent releases
 <!-- recent_releases starts -->
 * [pareto_lake_area 1.0](https://github.com/VeinsOfTheEarth/pareto_lake_area/releases/tag/1.0) - 2023-02-07
-* [r-raster-vector-geospatial Data Carpentry: Introduction to Geospatial Raster and Vector Data with R, February 2023](https://github.com/datacarpentry/r-raster-vector-geospatial/releases/tag/v2023.02.06) - 2023-02-06
+* [r-raster-vector-geospatial Data](https://github.com/datacarpentry/r-raster-vector-geospatial/releases/tag/v2023.02.06) - 2023-02-06
 * [ipdw v2.0-0](https://github.com/jsta/ipdw/releases/tag/v2.0-0) - 2023-01-06
 * [wikilake 0.7.0](https://github.com/jsta/wikilake/releases/tag/0.7.0) - 2023-01-06
 * [geowq-chesapeake 1.0.0](https://github.com/DOE-ICoM/geowq-chesapeake/releases/tag/v1.0.0) - 2022-12-29

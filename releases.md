@@ -5,7 +5,7 @@ All <!-- release_count starts -->52<!-- release_count ends --> of my released pr
 <!-- recent_releases starts -->
 * **[pareto_lake_area](https://github.com/VeinsOfTheEarth/pareto_lake_area)**: [1.0](https://github.com/VeinsOfTheEarth/pareto_lake_area/releases/tag/1.0) - 2023-02-07
 <br>Quantifying uncertainty in Pareto estimates of global lake area
-* **[r-raster-vector-geospatial](https://github.com/datacarpentry/r-raster-vector-geospatial)**: [Data Carpentry: Introduction to Geospatial Raster and Vector Data with R, February 2023](https://github.com/datacarpentry/r-raster-vector-geospatial/releases/tag/v2023.02.06) - 2023-02-06
+* **[r-raster-vector-geospatial](https://github.com/datacarpentry/r-raster-vector-geospatial)**: [Data](https://github.com/datacarpentry/r-raster-vector-geospatial/releases/tag/v2023.02.06) - 2023-02-06
 <br>Introduction to Geospatial Raster and Vector Data with R
 * **[ipdw](https://github.com/jsta/ipdw)**: [v2.0-0](https://github.com/jsta/ipdw/releases/tag/v2.0-0) - 2023-01-06
 <br>Interpolation by Inverse Path Distance Weighting 🌊
