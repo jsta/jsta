@@ -213,10 +213,14 @@ if __name__ == "__main__":
     with open("releases.json", "w") as outfile:
         json.dump(releases, outfile)
 
+    # truncate long release names
+    releases_md = releases[:5]
+    [release.update(release=release["release"].split(" ")[0]) for release in releases_md]
+    
     md = "\n".join(
         [
             "* [{repo} {release}]({url}) - {published_at}".format(**release)
-            for release in releases[:5]
+            for release in releases_md
         ]
     )
     readme_contents = readme.open().read()
