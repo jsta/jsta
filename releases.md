@@ -3,6 +3,8 @@
 All <!-- release_count starts -->53<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[nlaR](https://github.com/jsta/nlaR)**: [0.4.1](https://github.com/jsta/nlaR/releases/tag/0.4.1) - 2023-03-10
+<br>R interface to the National Lakes Assessment
 * **[pyffp](https://github.com/jsta/pyffp)**: [v0.0.2](https://github.com/jsta/pyffp/releases/tag/v0.0.2) - 2023-03-07
 <br>A simple two-dimensional parameterisation for Flux Footprint Prediction (FFP)
 * **[pareto_lake_area](https://github.com/VeinsOfTheEarth/pareto_lake_area)**: [1.0](https://github.com/VeinsOfTheEarth/pareto_lake_area/releases/tag/1.0) - 2023-02-07
@@ -85,8 +87,6 @@ All <!-- release_count starts -->53<!-- release_count ends --> of my released pr
 <br>Introduction to Geospatial Concepts
 * **[nes_connectivity_p](https://github.com/jsta/nes_connectivity_p)**: [1.0](https://github.com/jsta/nes_connectivity_p/releases/tag/1.0) - 2019-01-31
 <br>Does Freshwater Connectivity Influence Phosphorus Retention in Lakes?
-* **[nlaR](https://github.com/jsta/nlaR)**: [0.4.9](https://github.com/jsta/nlaR/releases/tag/0.4.9) - 2019-01-30
-<br>R interface to the National Lakes Assessment
 * **[streamnet](https://github.com/jsta/streamnet)**: [0.2.0](https://github.com/jsta/streamnet/releases/tag/0.2.0) - 2019-01-25
 <br>Morphology analysis of stream networks 🍃
 * **[r-intro-geospatial](https://github.com/datacarpentry/r-intro-geospatial)**: [Introduction to R for Geospatial Data August 2018 Release](https://github.com/datacarpentry/r-intro-geospatial/releases/tag/v2018.08.1) - 2018-08-28
