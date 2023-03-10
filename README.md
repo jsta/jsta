@@ -3,11 +3,11 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
+* [pyffp v0.0.2](https://github.com/jsta/pyffp/releases/tag/v0.0.2) - 2023-03-07
 * [pareto_lake_area 1.0](https://github.com/VeinsOfTheEarth/pareto_lake_area/releases/tag/1.0) - 2023-02-07
 * [r-raster-vector-geospatial Data](https://github.com/datacarpentry/r-raster-vector-geospatial/releases/tag/v2023.02.06) - 2023-02-06
 * [ipdw v2.0-0](https://github.com/jsta/ipdw/releases/tag/v2.0-0) - 2023-01-06
 * [wikilake 0.7.0](https://github.com/jsta/wikilake/releases/tag/0.7.0) - 2023-01-06
-* [geowq-chesapeake 1.0.0](https://github.com/DOE-ICoM/geowq-chesapeake/releases/tag/v1.0.0) - 2022-12-29
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/jsta/jsta/blob/main/releases.md)
 </td><td valign="top">

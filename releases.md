@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->52<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->53<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[pyffp](https://github.com/jsta/pyffp)**: [v0.0.2](https://github.com/jsta/pyffp/releases/tag/v0.0.2) - 2023-03-07
+<br>A simple two-dimensional parameterisation for Flux Footprint Prediction (FFP)
 * **[pareto_lake_area](https://github.com/VeinsOfTheEarth/pareto_lake_area)**: [1.0](https://github.com/VeinsOfTheEarth/pareto_lake_area/releases/tag/1.0) - 2023-02-07
 <br>Quantifying uncertainty in Pareto estimates of global lake area
 * **[r-raster-vector-geospatial](https://github.com/datacarpentry/r-raster-vector-geospatial)**: [Data](https://github.com/datacarpentry/r-raster-vector-geospatial/releases/tag/v2023.02.06) - 2023-02-06
@@ -34,7 +36,7 @@ All <!-- release_count starts -->52<!-- release_count ends --> of my released pr
 * **[LAGOSUSgis](https://github.com/cont-limno/LAGOSUSgis)**: [0.1.2](https://github.com/cont-limno/LAGOSUSgis/releases/tag/0.1.2) - 2021-07-12
 <br>Extra functions to interact with the GIS module of LAGOSUS
 * **[dbhydroR](https://github.com/ropensci/dbhydroR)**: [0.2-8](https://github.com/ropensci/dbhydroR/releases/tag/v0.2-8) - 2021-03-16
-<br>R interface to the South Florida Water Management District's DBHYDRO Database :sweat_drops::palm_tree:
+<br>R interface to the South Florida Water Management District's DBHYDRO Database :sweat_drops: :palm_tree:
 * **[earthengine](https://github.com/jsta/earthengine)**: [1.0.0](https://github.com/jsta/earthengine/releases/tag/1.0.0) - 2021-02-27
 <br>Are Google Earth Engine analyses reproducible?
 * **[jsta](https://github.com/jsta/jsta)**: [0.0.1](https://github.com/jsta/jsta/releases/tag/0.0.1) - 2021-02-27
