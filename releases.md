@@ -1,6 +1,6 @@
 # Released projects
 
-All <!-- release_count starts -->53<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->52<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[nlaR](https://github.com/jsta/nlaR)**: [0.4.1](https://github.com/jsta/nlaR/releases/tag/0.4.1) - 2023-03-10
@@ -89,8 +89,6 @@ All <!-- release_count starts -->53<!-- release_count ends --> of my released pr
 <br>Does Freshwater Connectivity Influence Phosphorus Retention in Lakes?
 * **[streamnet](https://github.com/jsta/streamnet)**: [0.2.0](https://github.com/jsta/streamnet/releases/tag/0.2.0) - 2019-01-25
 <br>Morphology analysis of stream networks 🍃
-* **[r-intro-geospatial](https://github.com/datacarpentry/r-intro-geospatial)**: [Introduction to R for Geospatial Data August 2018 Release](https://github.com/datacarpentry/r-intro-geospatial/releases/tag/v2018.08.1) - 2018-08-28
-<br>Introduction to R for Geospatial Data
 * **[looseleaf](https://github.com/jsta/looseleaf)**: [](https://github.com/jsta/looseleaf/releases/tag/v1.0.0) - 2018-06-01
 <br>Research compendium template for tracking, linking, and sharing data explorations
 * **[peatcollapse_methods](https://github.com/jsta/peatcollapse_methods)**: [0.1](https://github.com/jsta/peatcollapse_methods/releases/tag/v0.1) - 2017-12-16
