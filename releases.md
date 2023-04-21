@@ -3,6 +3,8 @@
 All <!-- release_count starts -->52<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[nhdR](https://github.com/jsta/nhdR)**: [0.6.0](https://github.com/jsta/nhdR/releases/tag/0.6.0) - 2023-04-21
+<br>R interface to the National Hydrography Dataset :droplet:
 * **[nlaR](https://github.com/jsta/nlaR)**: [0.4.1](https://github.com/jsta/nlaR/releases/tag/0.4.1) - 2023-03-10
 <br>R interface to the National Lakes Assessment
 * **[pyffp](https://github.com/jsta/pyffp)**: [v0.0.2](https://github.com/jsta/pyffp/releases/tag/v0.0.2) - 2023-03-07
@@ -17,8 +19,6 @@ All <!-- release_count starts -->52<!-- release_count ends --> of my released pr
 <br>Scrape lake metadata tables from Wikipedia 🏞
 * **[geowq-chesapeake](https://github.com/DOE-ICoM/geowq-chesapeake)**: [1.0.0](https://github.com/DOE-ICoM/geowq-chesapeake/releases/tag/v1.0.0) - 2022-12-29
 <br>Geographically aware estimates of remotely sensed water properties for Chesapeake Bay.
-* **[nhdR](https://github.com/jsta/nhdR)**: [0.5.9](https://github.com/jsta/nhdR/releases/tag/0.5.9) - 2022-10-09
-<br>R interface to the National Hydrography Dataset :droplet:
 * **[wql](https://github.com/jsta/wql)**: [v1.0.0](https://github.com/jsta/wql/releases/tag/v1.0.0) - 2022-08-10
 <br>Water Quality - Lite : Exploring Water Quality Monitoring Data
 * **[RivGraph](https://github.com/VeinsOfTheEarth/RivGraph)**: [v0.5.0](https://github.com/VeinsOfTheEarth/RivGraph/releases/tag/v0.5.0) - 2022-08-10
