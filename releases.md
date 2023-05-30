@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->52<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->53<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[kgml_waterbody-area](https://github.com/GLEON/kgml_waterbody-area)**: [Submission](https://github.com/GLEON/kgml_waterbody-area/releases/tag/v0.0.2) - 2023-05-30
+<br>Using knowledge-guided machine learning to assess patterns of areal change in waterbodies across the contiguous US
 * **[organization-geospatial](https://github.com/datacarpentry/organization-geospatial)**: [Data](https://github.com/datacarpentry/organization-geospatial/releases/tag/2023.05) - 2023-05-04
 <br>Introduction to Geospatial Concepts
 * **[nhdR](https://github.com/jsta/nhdR)**: [0.6.0](https://github.com/jsta/nhdR/releases/tag/0.6.0) - 2023-04-21

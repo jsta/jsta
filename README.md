@@ -3,11 +3,11 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
+* [kgml_waterbody-area Submission](https://github.com/GLEON/kgml_waterbody-area/releases/tag/v0.0.2) - 2023-05-30
 * [organization-geospatial Data](https://github.com/datacarpentry/organization-geospatial/releases/tag/2023.05) - 2023-05-04
 * [nhdR 0.6.0](https://github.com/jsta/nhdR/releases/tag/0.6.0) - 2023-04-21
 * [nlaR 0.4.1](https://github.com/jsta/nlaR/releases/tag/0.4.1) - 2023-03-10
 * [pyffp v0.0.2](https://github.com/jsta/pyffp/releases/tag/v0.0.2) - 2023-03-07
-* [pareto_lake_area 1.0](https://github.com/VeinsOfTheEarth/pareto_lake_area/releases/tag/1.0) - 2023-02-07
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/jsta/jsta/blob/main/releases.md)
 </td><td valign="top">
