@@ -3,6 +3,8 @@
 All <!-- release_count starts -->53<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[LAGOSNE](https://github.com/cont-limno/LAGOSNE)**: [v2.0.3](https://github.com/cont-limno/LAGOSNE/releases/tag/v2.0.3) - 2023-06-17
+<br>Interface to the LAke multi-scaled GeOSpatial & temporal database :earth_americas:
 * **[kgml_waterbody-area](https://github.com/GLEON/kgml_waterbody-area)**: [Submission](https://github.com/GLEON/kgml_waterbody-area/releases/tag/v0.0.2) - 2023-05-30
 <br>Using knowledge-guided machine learning to assess patterns of areal change in waterbodies across the contiguous US
 * **[organization-geospatial](https://github.com/datacarpentry/organization-geospatial)**: [Data](https://github.com/datacarpentry/organization-geospatial/releases/tag/2023.05) - 2023-05-04
@@ -55,8 +57,6 @@ All <!-- release_count starts -->53<!-- release_count ends --> of my released pr
 <br>Recipes for managing your Zotero library with `pyzotero`
 * **[natcap-invest-docker](https://github.com/jsta/natcap-invest-docker)**: [v0.0.1](https://github.com/jsta/natcap-invest-docker/releases/tag/0.0.1) - 2020-12-27
 <br>Docker wrapper around NatCap's InVEST
-* **[LAGOSNE](https://github.com/cont-limno/LAGOSNE)**: [v2.0.2](https://github.com/cont-limno/LAGOSNE/releases/tag/v2.0.2) - 2020-11-29
-<br>Interface to the LAke multi-scaled GeOSpatial & temporal database :earth_americas:
 * **[nhdpy](https://github.com/jsta/nhdpy)**: [0.1.0](https://github.com/jsta/nhdpy/releases/tag/0.1.0) - 2020-11-13
 <br>A python port of the nhdR package for querying, downloading, and networking the National Hydrography Dataset (NHD) dataset
 * **[ipdw_ms_stachmadden_2015](https://github.com/jsta/ipdw_ms_stachmadden_2015)**: [](https://github.com/jsta/ipdw_ms_stachmadden_2015/releases/tag/0.1) - 2020-10-27
