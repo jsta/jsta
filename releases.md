@@ -3,14 +3,14 @@
 All <!-- release_count starts -->53<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[nhdR](https://github.com/jsta/nhdR)**: [0.6.1](https://github.com/jsta/nhdR/releases/tag/0.6.1) - 2023-08-14
+<br>R interface to the National Hydrography Dataset :droplet:
 * **[LAGOSNE](https://github.com/cont-limno/LAGOSNE)**: [v2.0.3](https://github.com/cont-limno/LAGOSNE/releases/tag/v2.0.3) - 2023-06-17
 <br>Interface to the LAke multi-scaled GeOSpatial & temporal database :earth_americas:
 * **[kgml_waterbody-area](https://github.com/GLEON/kgml_waterbody-area)**: [Submission](https://github.com/GLEON/kgml_waterbody-area/releases/tag/v0.0.2) - 2023-05-30
 <br>Using knowledge-guided machine learning to assess patterns of areal change in waterbodies across the contiguous US
 * **[organization-geospatial](https://github.com/datacarpentry/organization-geospatial)**: [Data](https://github.com/datacarpentry/organization-geospatial/releases/tag/2023.05) - 2023-05-04
 <br>Introduction to Geospatial Concepts
-* **[nhdR](https://github.com/jsta/nhdR)**: [0.6.0](https://github.com/jsta/nhdR/releases/tag/0.6.0) - 2023-04-21
-<br>R interface to the National Hydrography Dataset :droplet:
 * **[nlaR](https://github.com/jsta/nlaR)**: [0.4.1](https://github.com/jsta/nlaR/releases/tag/0.4.1) - 2023-03-10
 <br>R interface to the National Lakes Assessment
 * **[pyffp](https://github.com/jsta/pyffp)**: [v0.0.2](https://github.com/jsta/pyffp/releases/tag/v0.0.2) - 2023-03-07
