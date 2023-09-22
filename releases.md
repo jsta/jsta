@@ -3,6 +3,8 @@
 All <!-- release_count starts -->53<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[geospatial-workshop](https://github.com/datacarpentry/geospatial-workshop)**: [Data](https://github.com/datacarpentry/geospatial-workshop/releases/tag/2023-09) - 2023-09-18
+<br>Geospatial Workshop Overview
 * **[nhdR](https://github.com/jsta/nhdR)**: [0.6.1](https://github.com/jsta/nhdR/releases/tag/0.6.1) - 2023-08-14
 <br>R interface to the National Hydrography Dataset :droplet:
 * **[LAGOSNE](https://github.com/cont-limno/LAGOSNE)**: [v2.0.3](https://github.com/cont-limno/LAGOSNE/releases/tag/v2.0.3) - 2023-06-17
@@ -85,8 +87,6 @@ All <!-- release_count starts -->53<!-- release_count ends --> of my released pr
 <br>The National Eutrophication Survey: lake characteristics and historical nutrient concentrations
 * **[gssurgo](https://github.com/jsta/gssurgo)**: [1.0.0](https://github.com/jsta/gssurgo/releases/tag/1.0.0) - 2019-11-19
 <br>Python package enabling an open source gSSURGO workflow
-* **[geospatial-workshop](https://github.com/datacarpentry/geospatial-workshop)**: [Data Carpentry: Geospatial Workshop Overview, June 2019](https://github.com/datacarpentry/geospatial-workshop/releases/tag/v2019.06.1) - 2019-06-28
-<br>Geospatial Workshop Overview
 * **[nes_connectivity_p](https://github.com/jsta/nes_connectivity_p)**: [1.0](https://github.com/jsta/nes_connectivity_p/releases/tag/1.0) - 2019-01-31
 <br>Does Freshwater Connectivity Influence Phosphorus Retention in Lakes?
 * **[streamnet](https://github.com/jsta/streamnet)**: [0.2.0](https://github.com/jsta/streamnet/releases/tag/0.2.0) - 2019-01-25
