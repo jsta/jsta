@@ -3,9 +3,9 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
+* [kgml_waterbody-area Revisions](https://github.com/GLEON/kgml_waterbody-area/releases/tag/v0.0.3) - 2023-11-28
 * [nhdR 0.6.1](https://github.com/jsta/nhdR/releases/tag/0.6.1) - 2023-08-14
 * [LAGOSNE v2.0.3](https://github.com/cont-limno/LAGOSNE/releases/tag/v2.0.3) - 2023-06-17
-* [kgml_waterbody-area Submission](https://github.com/GLEON/kgml_waterbody-area/releases/tag/v0.0.2) - 2023-05-30
 * [nlaR 0.4.1](https://github.com/jsta/nlaR/releases/tag/0.4.1) - 2023-03-10
 * [pyffp v0.0.2](https://github.com/jsta/pyffp/releases/tag/v0.0.2) - 2023-03-07
 <!-- recent_releases ends -->
