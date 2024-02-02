@@ -39,7 +39,7 @@ All <!-- release_count starts -->50<!-- release_count ends --> of my released pr
 <br>Materials for an R geospatial workshop at the GLEON 2021 meeting
 * **[LAGOSUSgis](https://github.com/cont-limno/LAGOSUSgis)**: [0.1.2](https://github.com/cont-limno/LAGOSUSgis/releases/tag/0.1.2) - 2021-07-12
 <br>Extra functions to interact with the GIS module of LAGOSUS
-* **[dbhydroR](https://github.com/ropensci/dbhydroR)**: [0.2-8](https://github.com/ropensci/dbhydroR/releases/tag/v0.2-8) - 2021-03-16
+* **[dbhydroR](https://github.com/ropensci-archive/dbhydroR)**: [0.2-8](https://github.com/ropensci-archive/dbhydroR/releases/tag/v0.2-8) - 2021-03-16
 <br>R interface to the South Florida Water Management District's DBHYDRO Database :sweat_drops: :palm_tree:
 * **[earthengine](https://github.com/jsta/earthengine)**: [1.0.0](https://github.com/jsta/earthengine/releases/tag/1.0.0) - 2021-02-27
 <br>Are Google Earth Engine analyses reproducible?
