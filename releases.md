@@ -3,6 +3,8 @@
 All <!-- release_count starts -->50<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[rabpro](https://github.com/VeinsOfTheEarth/rabpro)**: [0.5.3](https://github.com/VeinsOfTheEarth/rabpro/releases/tag/v0.5.3) - 2024-04-03
+<br>Delineating watershed basins and computing attribute statistics using Google Earth Engine
 * **[kgml_waterbody-area](https://github.com/GLEON/kgml_waterbody-area)**: [Revisions](https://github.com/GLEON/kgml_waterbody-area/releases/tag/v0.0.3) - 2023-11-28
 <br>Using knowledge-guided machine learning to assess patterns of areal change in waterbodies across the contiguous US
 * **[nhdR](https://github.com/jsta/nhdR)**: [0.6.1](https://github.com/jsta/nhdR/releases/tag/0.6.1) - 2023-08-14
@@ -25,8 +27,6 @@ All <!-- release_count starts -->50<!-- release_count ends --> of my released pr
 <br>Water Quality - Lite : Exploring Water Quality Monitoring Data
 * **[RivGraph](https://github.com/VeinsOfTheEarth/RivGraph)**: [v0.5.0](https://github.com/VeinsOfTheEarth/RivGraph/releases/tag/v0.5.0) - 2022-08-10
 <br>Extracting and quantifying graphical representations of river and delta channel networks from binary masks
-* **[rabpro](https://github.com/VeinsOfTheEarth/rabpro)**: [0.5.2](https://github.com/VeinsOfTheEarth/rabpro/releases/tag/v0.5.2) - 2022-05-31
-<br>Delineating watershed basins and computing attribute statistics using Google Earth Engine
 * **[rv](https://github.com/jsta/rv)**: [2.3.5](https://github.com/jsta/rv/releases/tag/2.3.5) - 2022-02-13
 <br>Simulation-Based Random Variable Objects
 * **[limnopapers](https://github.com/feedpapers/limnopapers)**: [1.0.2](https://github.com/feedpapers/limnopapers/releases/tag/1.0.2) - 2021-12-03
