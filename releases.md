@@ -3,6 +3,8 @@
 All <!-- release_count starts -->50<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[wql](https://github.com/jsta/wql)**: [v1.0.1](https://github.com/jsta/wql/releases/tag/v1.0.1) - 2024-05-28
+<br>Water Quality - Lite : Exploring Water Quality Monitoring Data
 * **[rabpro](https://github.com/VeinsOfTheEarth/rabpro)**: [0.5.3](https://github.com/VeinsOfTheEarth/rabpro/releases/tag/v0.5.3) - 2024-04-03
 <br>Delineating watershed basins and computing attribute statistics using Google Earth Engine
 * **[kgml_waterbody-area](https://github.com/GLEON/kgml_waterbody-area)**: [Revisions](https://github.com/GLEON/kgml_waterbody-area/releases/tag/v0.0.3) - 2023-11-28
@@ -23,8 +25,6 @@ All <!-- release_count starts -->50<!-- release_count ends --> of my released pr
 <br>Scrape lake metadata tables from Wikipedia 🏞
 * **[geowq-chesapeake](https://github.com/DOE-ICoM/geowq-chesapeake)**: [1.0.0](https://github.com/DOE-ICoM/geowq-chesapeake/releases/tag/v1.0.0) - 2022-12-29
 <br>Geographically aware estimates of remotely sensed water properties for Chesapeake Bay.
-* **[wql](https://github.com/jsta/wql)**: [v1.0.0](https://github.com/jsta/wql/releases/tag/v1.0.0) - 2022-08-10
-<br>Water Quality - Lite : Exploring Water Quality Monitoring Data
 * **[RivGraph](https://github.com/VeinsOfTheEarth/RivGraph)**: [v0.5.0](https://github.com/VeinsOfTheEarth/RivGraph/releases/tag/v0.5.0) - 2022-08-10
 <br>Extracting and quantifying graphical representations of river and delta channel networks from binary masks
 * **[rv](https://github.com/jsta/rv)**: [2.3.5](https://github.com/jsta/rv/releases/tag/2.3.5) - 2022-02-13
