@@ -1,12 +1,14 @@
 # Released projects
 
-All <!-- release_count starts -->50<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->51<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[wql](https://github.com/jsta/wql)**: [v1.0.1](https://github.com/jsta/wql/releases/tag/v1.0.1) - 2024-05-28
 <br>Water Quality - Lite : Exploring Water Quality Monitoring Data
 * **[rabpro](https://github.com/VeinsOfTheEarth/rabpro)**: [0.5.3](https://github.com/VeinsOfTheEarth/rabpro/releases/tag/v0.5.3) - 2024-04-03
 <br>Delineating watershed basins and computing attribute statistics using Google Earth Engine
+* **[waterbody_classification_ms](https://github.com/VeinsOfTheEarth/waterbody_classification_ms)**: [Submission](https://github.com/VeinsOfTheEarth/waterbody_classification_ms/releases/tag/v0.0.1) - 2024-03-25
+<br>Enabling high resolution hydrologic routing with machine learning assisted waterbody classification
 * **[kgml_waterbody-area](https://github.com/GLEON/kgml_waterbody-area)**: [Revisions](https://github.com/GLEON/kgml_waterbody-area/releases/tag/v0.0.3) - 2023-11-28
 <br>Using knowledge-guided machine learning to assess patterns of areal change in waterbodies across the contiguous US
 * **[nhdR](https://github.com/jsta/nhdR)**: [0.6.1](https://github.com/jsta/nhdR/releases/tag/0.6.1) - 2023-08-14
