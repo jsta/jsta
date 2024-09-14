@@ -178,6 +178,7 @@ if __name__ == "__main__":
                 "tebaldi-etal_2021_natclimchange",
                 "tropicalcyclone_MLP",
                 "icom-mesh-data",
+                "CRB-human-impacts"
             ],
             releases,
         )
