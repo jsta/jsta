@@ -1,10 +1,8 @@
 # Released projects
 
-All <!-- release_count starts -->52<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->51<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[CRB-human-impacts](https://github.com/smaebius/CRB-human-impacts)**: [v1.0.0](https://github.com/smaebius/CRB-human-impacts/releases/tag/1.0.0) - 2024-09-07
-<br>None
 * **[waterbody_classification_ms](https://github.com/VeinsOfTheEarth/waterbody_classification_ms)**: [LANL](https://github.com/VeinsOfTheEarth/waterbody_classification_ms/releases/tag/v0.0.2) - 2024-07-31
 <br>Enabling high resolution hydrologic routing with machine learning assisted waterbody classification
 * **[wql](https://github.com/jsta/wql)**: [v1.0.1](https://github.com/jsta/wql/releases/tag/v1.0.1) - 2024-05-28
