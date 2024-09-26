@@ -220,7 +220,7 @@ if __name__ == "__main__":
     
     md = "\n".join(
         [
-            "* [{repo} {release}]({url}) - {published_at}".format(**release)
+            "* [{repo}: {release}]({url}) - {published_at}".format(**release)
             for release in releases_md
         ]
     )
