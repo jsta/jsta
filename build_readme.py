@@ -246,10 +246,10 @@ if __name__ == "__main__":
     )
     project_releases.open("w").write(project_releases_content)
 
-    entries = fetch_blog_entries()[:5]
-    entries_md = "\n".join(
-        ["* [{title}]({url}) - {published}".format(**entry) for entry in entries]
-    )
-    rewritten = replace_chunk(rewritten, "blog", entries_md)
+    # entries = fetch_blog_entries()[:5]
+    # entries_md = "\n".join(
+    #     ["* [{title}]({url}) - {published}".format(**entry) for entry in entries]
+    # )
+    rewritten = replace_chunk(rewritten, "blog", "![https://ed-hawkins.github.io/climate-visuals/PALEO-STRIPES/PAGES2k-BARS-1-2023-black.png](https://ed-hawkins.github.io/climate-visuals/PALEO-STRIPES/PAGES2k-BARS-1-2023-black.png)")
 
     readme.open("w").write(rewritten)
