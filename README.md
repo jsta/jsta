@@ -14,7 +14,7 @@ More [recent releases](https://github.com/jsta/jsta/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
-![https://ed-hawkins.github.io/climate-visuals/PALEO-STRIPES/PAGES2k-BARS-1-2023-black.png](https://ed-hawkins.github.io/climate-visuals/PALEO-STRIPES/PAGES2k-BARS-1-2023-black.png)
+<a href='https://ed-hawkins.github.io/climate-visuals/PALEO-STRIPES/PAGES2k-BARS-1-2023-black.png' width=300/></a>
 <!-- blog ends -->
 More on [jsta.rbind.io](https://jsta.rbind.io)
 </td></tr></table>
