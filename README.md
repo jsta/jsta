@@ -14,11 +14,7 @@ More [recent releases](https://github.com/jsta/jsta/blob/main/releases.md)
 
 ### On my blog
 <!-- blog starts -->
-* [Are University of X(s) more prestigious than X State(s)?](https://jsta.rbind.io/blog/university-state-prestige/) - 2023-12-26
-* [Install complexity as a de-motivator for reproducibility](https://jsta.rbind.io/blog/are-r-project-dependencies-getting-more-numerous-over-time/) - 2022-12-26
-* [Book review - The Ministry for the Future](https://jsta.rbind.io/blog/the-ministry-for-the-future/) - 2022-04-24
-* [Interpreting the new ESA Open Science policy](https://jsta.rbind.io/blog/esa-data-policy/) - 2021-02-28
-* [Automated roxygen documentation of R package data](https://jsta.rbind.io/blog/automated-roxygen-documentation-of-r-package-data/) - 2020-07-12
+![https://ed-hawkins.github.io/climate-visuals/PALEO-STRIPES/PAGES2k-BARS-1-2023-black.png](https://ed-hawkins.github.io/climate-visuals/PALEO-STRIPES/PAGES2k-BARS-1-2023-black.png)
 <!-- blog ends -->
 More on [jsta.rbind.io](https://jsta.rbind.io)
 </td></tr></table>
