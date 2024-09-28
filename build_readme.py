@@ -250,6 +250,6 @@ if __name__ == "__main__":
     # entries_md = "\n".join(
     #     ["* [{title}]({url}) - {published}".format(**entry) for entry in entries]
     # )
-    rewritten = replace_chunk(rewritten, "blog", "![https://ed-hawkins.github.io/climate-visuals/PALEO-STRIPES/PAGES2k-BARS-1-2023-black.png](https://ed-hawkins.github.io/climate-visuals/PALEO-STRIPES/PAGES2k-BARS-1-2023-black.png)")
+    rewritten = replace_chunk(rewritten, "blog", "<a href='https://ed-hawkins.github.io/climate-visuals/PALEO-STRIPES/PAGES2k-BARS-1-2023-black.png" width=300/></a>")
 
     readme.open("w").write(rewritten)
