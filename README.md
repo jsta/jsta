@@ -1,5 +1,5 @@
 
-<table><tr><td valign="top">
+<table><tr valign="top">
 
 ### Recent releases
 <!-- recent_releases starts -->
@@ -10,6 +10,6 @@
 * [kgml_waterbody-area: Revisions](https://github.com/GLEON/kgml_waterbody-area/releases/tag/v0.0.3) - 2023-11-28
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/jsta/jsta/blob/main/releases.md)
-</td></tr></table>
+</tr></table>
 
 <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">How this works</a>
