@@ -11,5 +11,3 @@
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/jsta/jsta/blob/main/releases.md)
 </tr></table>
-
-<a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">How this works</a>
