@@ -10,13 +10,6 @@
 * [kgml_waterbody-area: Revisions](https://github.com/GLEON/kgml_waterbody-area/releases/tag/v0.0.3) - 2023-11-28
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/jsta/jsta/blob/main/releases.md)
-</td><td valign="top">
-
-### On my blog
-<!-- blog starts -->
-<a href='https://ed-hawkins.github.io/climate-visuals/PALEO-STRIPES/PAGES2k-BARS-1-2023-black.png' width=750/></a>
-<!-- blog ends -->
-More on [jsta.rbind.io](https://jsta.rbind.io)
 </td></tr></table>
 
 <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">How this works</a>
