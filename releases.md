@@ -1,10 +1,8 @@
 # Released projects
 
-All <!-- release_count starts -->53<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->52<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[snowice_light](https://github.com/LimnoDataScience/snowice_light)**: [Publication](https://github.com/LimnoDataScience/snowice_light/releases/tag/v1.0.0) - 2024-10-02
-<br>None
 * **[fluxnet-sentinels](https://github.com/lanl/fluxnet-sentinels)**: [Initial](https://github.com/lanl/fluxnet-sentinels/releases/tag/v0.0.1) - 2024-09-26
 <br>Eddy covariance towers as sentinels of abnormal radioactive material releases
 * **[waterbody_classification_ms](https://github.com/VeinsOfTheEarth/waterbody_classification_ms)**: [LANL](https://github.com/VeinsOfTheEarth/waterbody_classification_ms/releases/tag/v0.0.2) - 2024-07-31
@@ -13,7 +11,7 @@ All <!-- release_count starts -->53<!-- release_count ends --> of my released pr
 <br>Water Quality - Lite : Exploring Water Quality Monitoring Data
 * **[rabpro](https://github.com/VeinsOfTheEarth/rabpro)**: [0.5.3](https://github.com/VeinsOfTheEarth/rabpro/releases/tag/v0.5.3) - 2024-04-03
 <br>Delineating watershed basins and computing attribute statistics using Google Earth Engine
-* **[kgml_waterbody-area](https://github.com/GLEON/kgml_waterbody-area)**: [Revisions to ES&T](https://github.com/GLEON/kgml_waterbody-area/releases/tag/v0.0.3) - 2023-11-28
+* **[kgml_waterbody-area](https://github.com/GLEON/kgml_waterbody-area)**: [Revisions](https://github.com/GLEON/kgml_waterbody-area/releases/tag/v0.0.3) - 2023-11-28
 <br>Using knowledge-guided machine learning to assess patterns of areal change in waterbodies across the contiguous US
 * **[nhdR](https://github.com/jsta/nhdR)**: [0.6.1](https://github.com/jsta/nhdR/releases/tag/0.6.1) - 2023-08-14
 <br>R interface to the National Hydrography Dataset :droplet:
