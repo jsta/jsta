@@ -3,7 +3,7 @@
 All <!-- release_count starts -->52<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[fluxnet-sentinels](https://github.com/lanl/fluxnet-sentinels)**: [Initial](https://github.com/lanl/fluxnet-sentinels/releases/tag/v0.0.2) - 2024-11-08
+* **[fluxnet-sentinels](https://github.com/lanl/fluxnet-sentinels)**: [Initial](https://github.com/lanl/fluxnet-sentinels/releases/tag/v0.0.3) - 2024-11-26
 <br>Eddy covariance towers as sentinels of abnormal radioactive material releases
 * **[waterbody_classification_ms](https://github.com/VeinsOfTheEarth/waterbody_classification_ms)**: [LANL](https://github.com/VeinsOfTheEarth/waterbody_classification_ms/releases/tag/v0.0.2) - 2024-07-31
 <br>Enabling high resolution hydrologic routing with machine learning assisted waterbody classification
