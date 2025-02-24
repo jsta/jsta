@@ -3,10 +3,10 @@
 All <!-- release_count starts -->52<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[fluxnet-sentinels](https://github.com/lanl/fluxnet-sentinels)**: [Accepted](https://github.com/lanl/fluxnet-sentinels/releases/tag/v1.0.0) - 2025-02-24
+<br>Eddy covariance towers as sentinels of abnormal radioactive material releases
 * **[wql](https://github.com/jsta/wql)**: [v1.0.2](https://github.com/jsta/wql/releases/tag/v1.0.2) - 2025-01-23
 <br>Water Quality - Lite : Exploring Water Quality Monitoring Data
-* **[fluxnet-sentinels](https://github.com/lanl/fluxnet-sentinels)**: [Initial](https://github.com/lanl/fluxnet-sentinels/releases/tag/v0.0.3) - 2024-11-26
-<br>Eddy covariance towers as sentinels of abnormal radioactive material releases
 * **[waterbody_classification_ms](https://github.com/VeinsOfTheEarth/waterbody_classification_ms)**: [LANL](https://github.com/VeinsOfTheEarth/waterbody_classification_ms/releases/tag/v0.0.2) - 2024-07-31
 <br>Enabling high resolution hydrologic routing with machine learning assisted waterbody classification
 * **[rabpro](https://github.com/VeinsOfTheEarth/rabpro)**: [0.5.3](https://github.com/VeinsOfTheEarth/rabpro/releases/tag/v0.5.3) - 2024-04-03
