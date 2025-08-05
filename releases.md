@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->53<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->54<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[neovim-releases](https://github.com/jsta/neovim-releases)**: [Nvim](https://github.com/jsta/neovim-releases/releases/tag/nightly) - 2025-07-23
+<br>Unsupported Nvim releases
 * **[Nutri_retention_WE_US](https://github.com/carollcb/Nutri_retention_WE_US)**: [Nutrient](https://github.com/carollcb/Nutri_retention_WE_US/releases/tag/v1.0.0) - 2025-06-16
 <br>None
 * **[fluxnet-sentinels](https://github.com/lanl/fluxnet-sentinels)**: [Accepted](https://github.com/lanl/fluxnet-sentinels/releases/tag/v1.0.0) - 2025-02-24
