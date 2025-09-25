@@ -3,14 +3,14 @@
 All <!-- release_count starts -->54<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[wql](https://github.com/jsta/wql)**: [v1.0.3](https://github.com/jsta/wql/releases/tag/v1.0.3) - 2025-09-24
+<br>Water Quality - Lite : Exploring Water Quality Monitoring Data
 * **[neovim-releases](https://github.com/jsta/neovim-releases)**: [Nvim](https://github.com/jsta/neovim-releases/releases/tag/nightly) - 2025-07-23
 <br>Unsupported Nvim releases
 * **[Nutri_retention_WE_US](https://github.com/carollcb/Nutri_retention_WE_US)**: [Nutrient](https://github.com/carollcb/Nutri_retention_WE_US/releases/tag/v1.0.0) - 2025-06-16
 <br>None
 * **[fluxnet-sentinels](https://github.com/lanl/fluxnet-sentinels)**: [Accepted](https://github.com/lanl/fluxnet-sentinels/releases/tag/v1.0.0) - 2025-02-24
 <br>Eddy covariance towers as sentinels of abnormal radioactive material releases
-* **[wql](https://github.com/jsta/wql)**: [v1.0.2](https://github.com/jsta/wql/releases/tag/v1.0.2) - 2025-01-23
-<br>Water Quality - Lite : Exploring Water Quality Monitoring Data
 * **[waterbody_classification_ms](https://github.com/VeinsOfTheEarth/waterbody_classification_ms)**: [LANL](https://github.com/VeinsOfTheEarth/waterbody_classification_ms/releases/tag/v0.0.2) - 2024-07-31
 <br>Enabling high resolution hydrologic routing with machine learning assisted waterbody classification
 * **[rabpro](https://github.com/VeinsOfTheEarth/rabpro)**: [0.5.3](https://github.com/VeinsOfTheEarth/rabpro/releases/tag/v0.5.3) - 2024-04-03
