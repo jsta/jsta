@@ -3,6 +3,8 @@
 All <!-- release_count starts -->54<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[LAGOSNE](https://github.com/cont-limno/LAGOSNE)**: [v2.0.4](https://github.com/cont-limno/LAGOSNE/releases/tag/v2.0.4) - 2025-11-27
+<br>Interface to the LAke multi-scaled GeOSpatial & temporal database :earth_americas:
 * **[wql](https://github.com/jsta/wql)**: [v1.0.3](https://github.com/jsta/wql/releases/tag/v1.0.3) - 2025-09-24
 <br>Water Quality - Lite : Exploring Water Quality Monitoring Data
 * **[neovim-releases](https://github.com/jsta/neovim-releases)**: [Nvim](https://github.com/jsta/neovim-releases/releases/tag/nightly) - 2025-07-23
@@ -11,7 +13,7 @@ All <!-- release_count starts -->54<!-- release_count ends --> of my released pr
 <br>None
 * **[fluxnet-sentinels](https://github.com/lanl/fluxnet-sentinels)**: [Accepted](https://github.com/lanl/fluxnet-sentinels/releases/tag/v1.0.0) - 2025-02-24
 <br>Eddy covariance towers as sentinels of abnormal radioactive material releases
-* **[waterbody_classification_ms](https://github.com/VeinsOfTheEarth/waterbody_classification_ms)**: [LANL](https://github.com/VeinsOfTheEarth/waterbody_classification_ms/releases/tag/v0.0.2) - 2024-07-31
+* **[waterbody_classification_ms](https://github.com/VeinsOfTheEarth/waterbody_classification_ms)**: [LANL Release](https://github.com/VeinsOfTheEarth/waterbody_classification_ms/releases/tag/v0.0.2) - 2024-07-31
 <br>Enabling high resolution hydrologic routing with machine learning assisted waterbody classification
 * **[rabpro](https://github.com/VeinsOfTheEarth/rabpro)**: [0.5.3](https://github.com/VeinsOfTheEarth/rabpro/releases/tag/v0.5.3) - 2024-04-03
 <br>Delineating watershed basins and computing attribute statistics using Google Earth Engine
@@ -19,8 +21,6 @@ All <!-- release_count starts -->54<!-- release_count ends --> of my released pr
 <br>Using knowledge-guided machine learning to assess patterns of areal change in waterbodies across the contiguous US
 * **[nhdR](https://github.com/jsta/nhdR)**: [0.6.1](https://github.com/jsta/nhdR/releases/tag/0.6.1) - 2023-08-14
 <br>R interface to the National Hydrography Dataset :droplet:
-* **[LAGOSNE](https://github.com/cont-limno/LAGOSNE)**: [v2.0.3](https://github.com/cont-limno/LAGOSNE/releases/tag/v2.0.3) - 2023-06-17
-<br>Interface to the LAke multi-scaled GeOSpatial & temporal database :earth_americas:
 * **[nlaR](https://github.com/jsta/nlaR)**: [0.4.1](https://github.com/jsta/nlaR/releases/tag/0.4.1) - 2023-03-10
 <br>R interface to the National Lakes Assessment
 * **[pyffp](https://github.com/jsta/pyffp)**: [v0.0.2](https://github.com/jsta/pyffp/releases/tag/v0.0.2) - 2023-03-07
