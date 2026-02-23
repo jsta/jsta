@@ -3,10 +3,10 @@
 All <!-- release_count starts -->55<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[LAGOSNE](https://github.com/cont-limno/LAGOSNE)**: [v2.0.5](https://github.com/cont-limno/LAGOSNE/releases/tag/v2.0.5) - 2026-02-20
+<br>Interface to the LAke multi-scaled GeOSpatial & temporal database :earth_americas:
 * **[dapper](https://github.com/NGEE-Arctic/dapper)**: [v1.0](https://github.com/NGEE-Arctic/dapper/releases/tag/v1.0) - 2026-01-12
 <br>Data PreParation for ELM Runs
-* **[LAGOSNE](https://github.com/cont-limno/LAGOSNE)**: [v2.0.4](https://github.com/cont-limno/LAGOSNE/releases/tag/v2.0.4) - 2025-11-27
-<br>Interface to the LAke multi-scaled GeOSpatial & temporal database :earth_americas:
 * **[wql](https://github.com/jsta/wql)**: [v1.0.3](https://github.com/jsta/wql/releases/tag/v1.0.3) - 2025-09-24
 <br>Water Quality - Lite : Exploring Water Quality Monitoring Data
 * **[neovim-releases](https://github.com/jsta/neovim-releases)**: [Nvim](https://github.com/jsta/neovim-releases/releases/tag/nightly) - 2025-07-23
