@@ -3,6 +3,8 @@
 All <!-- release_count starts -->55<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[RivGraph](https://github.com/VeinsOfTheEarth/RivGraph)**: [v1.0](https://github.com/VeinsOfTheEarth/RivGraph/releases/tag/v1.0) - 2026-04-02
+<br>Extracting and quantifying graphical representations of river and delta channel networks from binary masks
 * **[LAGOSNE](https://github.com/cont-limno/LAGOSNE)**: [v2.0.5](https://github.com/cont-limno/LAGOSNE/releases/tag/v2.0.5) - 2026-02-20
 <br>Interface to the LAke multi-scaled GeOSpatial & temporal database :earth_americas:
 * **[dapper](https://github.com/NGEE-Arctic/dapper)**: [v1.0](https://github.com/NGEE-Arctic/dapper/releases/tag/v1.0) - 2026-01-12
@@ -11,7 +13,7 @@ All <!-- release_count starts -->55<!-- release_count ends --> of my released pr
 <br>Water Quality - Lite : Exploring Water Quality Monitoring Data
 * **[neovim-releases](https://github.com/jsta/neovim-releases)**: [Nvim](https://github.com/jsta/neovim-releases/releases/tag/nightly) - 2025-07-23
 <br>Unsupported Nvim releases
-* **[Nutri_retention_WE_US](https://github.com/carollcb/Nutri_retention_WE_US)**: [Nutrient](https://github.com/carollcb/Nutri_retention_WE_US/releases/tag/v1.0.0) - 2025-06-16
+* **[Nutri_retention_WE_US](https://github.com/carollcb/Nutri_retention_WE_US)**: [Nutrient retention in Western US lakes and reservoirs](https://github.com/carollcb/Nutri_retention_WE_US/releases/tag/v1.0.0) - 2025-06-16
 <br>None
 * **[fluxnet-sentinels](https://github.com/lanl/fluxnet-sentinels)**: [Accepted](https://github.com/lanl/fluxnet-sentinels/releases/tag/v1.0.0) - 2025-02-24
 <br>Eddy covariance towers as sentinels of abnormal radioactive material releases
@@ -35,8 +37,6 @@ All <!-- release_count starts -->55<!-- release_count ends --> of my released pr
 <br>Scrape lake metadata tables from Wikipedia 🏞
 * **[geowq-chesapeake](https://github.com/DOE-ICoM/geowq-chesapeake)**: [1.0.0](https://github.com/DOE-ICoM/geowq-chesapeake/releases/tag/v1.0.0) - 2022-12-29
 <br>Geographically aware estimates of remotely sensed water properties for Chesapeake Bay.
-* **[RivGraph](https://github.com/VeinsOfTheEarth/RivGraph)**: [v0.5.0](https://github.com/VeinsOfTheEarth/RivGraph/releases/tag/v0.5.0) - 2022-08-10
-<br>Extracting and quantifying graphical representations of river and delta channel networks from binary masks
 * **[rv](https://github.com/jsta/rv)**: [2.3.5](https://github.com/jsta/rv/releases/tag/2.3.5) - 2022-02-13
 <br>Simulation-Based Random Variable Objects
 * **[limnopapers](https://github.com/feedpapers/limnopapers)**: [1.0.2](https://github.com/feedpapers/limnopapers/releases/tag/1.0.2) - 2021-12-03
