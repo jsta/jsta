@@ -5,26 +5,8 @@ import pathlib
 import datetime
 import feedparser
 import pandas as pd
-from python_graphql_client import GraphqlClient
-
-
-try:
-    root = pathlib.Path(__file__).parent.resolve()
-except:
-    root = pathlib.Path()
-client = GraphqlClient(endpoint="https://api.github.com/graphql")
-
-## https://stackoverflow.com/a/9161531/3362993
-## for local builds
-# keys = {}
-# with open(os.path.expanduser("~/.Renviron")) as myfile:
-#     for line in myfile:
-#         name, key = line.partition("=")[::2]
-#         keys[name.strip()] = str.rstrip(key)
-# TOKEN = keys["GITHUB_PAT"]
-
-# comment out below line for local builds
-TOKEN = os.environ.get("JSTA_TOKEN", "")
+from gql import Client, gql
+from gql.transport.aiohttp import AIOHTTPTransport
 
 
 def replace_chunk(content, marker, chunk, inline=False):
@@ -39,7 +21,7 @@ def replace_chunk(content, marker, chunk, inline=False):
 
 
 def make_query(after_cursor=None):
-    return """
+    query_str = """
 query {
   viewer {
     repositories(first: 100, ownerAffiliations:[OWNER, ORGANIZATION_MEMBER, COLLABORATOR], privacy: PUBLIC, after:AFTER) {
@@ -73,12 +55,11 @@ query {
     }
   }
 }
-""".replace(
-        "AFTER", '"{}"'.format(after_cursor) if after_cursor else "null"
-    )
+""".replace("AFTER", '"{}"'.format(after_cursor) if after_cursor else "null")
+    return gql(query_str)
 
 
-def fetch_releases(oauth_token):
+def fetch_releases(client):
     repos = []
     releases = []
     repo_names = set()
@@ -87,16 +68,17 @@ def fetch_releases(oauth_token):
 
     while has_next_page:
         data = client.execute(
-            query=make_query(after_cursor),
-            headers={"Authorization": "Bearer {}".format(oauth_token)},
+            request=make_query(after_cursor),
         )
 
         # print()
         # print(json.dumps(data, indent=4))
         # print()
 
-        for repo in data["data"]["viewer"]["repositories"]["nodes"]:
+        for repo in data["viewer"]["repositories"]["nodes"]:
             # repo = data["data"]["viewer"]["repositories"]["nodes"][0]
+            if repo["name"] == "ursa":
+                print(repo)
             if repo["releases"]["totalCount"] and repo["name"] not in repo_names:
                 repos.append(repo)
                 repo_names.add(repo["name"])
@@ -125,7 +107,7 @@ def fetch_releases(oauth_token):
                         "url": repo["releases"]["nodes"][0]["url"],
                     }
                 )
-        after_cursor = data["data"]["viewer"]["repositories"]["pageInfo"]["endCursor"]
+        after_cursor = data["viewer"]["repositories"]["pageInfo"]["endCursor"]
         has_next_page = after_cursor
     return releases
 
@@ -146,9 +128,22 @@ def fetch_blog_entries():
 
 
 if __name__ == "__main__":
+    try:
+        root = pathlib.Path(__file__).parent.resolve()
+    except:
+        root = pathlib.Path()
+
+    TOKEN = os.environ.get("JSTA_TOKEN", "")
+
+    transport = AIOHTTPTransport(
+        url="https://api.github.com/graphql",
+        headers={"Authorization": "Bearer {}".format(TOKEN)},
+    )
+    client = Client(transport=transport)
+
     readme = root / "README.md"
     project_releases = root / "releases.md"
-    releases = fetch_releases(TOKEN)
+    releases = fetch_releases(client)
 
     # test = pd.DataFrame(releases)
     # test[test["repo"] == "nhdR"]
@@ -161,26 +156,28 @@ if __name__ == "__main__":
     )
     releases = list(
         filter(
-            lambda r: r["repo"]
-            not in [
-                "LAGOS_GIS_Toolbox",
-                "LAGOSClimateSensitivity",
-                "rgrass7sf",
-                "tidybayes",
-                "openbugs",
-                "spnetwork",
-                "LAGOS_NETS",
-                "LivinOnTheEdge",
-                "lagosus-reservoir",
-                "metabolism_phenology",
-                "pyflowline_icom",
-                "liao-etal_2022_pyflowline_james",
-                "tebaldi-etal_2021_natclimchange",
-                "tropicalcyclone_MLP",
-                "icom-mesh-data",
-                "CRB-human-impacts",
-                "snowice_light"
-            ],
+            lambda r: (
+                r["repo"]
+                not in [
+                    "LAGOS_GIS_Toolbox",
+                    "LAGOSClimateSensitivity",
+                    "rgrass7sf",
+                    "tidybayes",
+                    "openbugs",
+                    "spnetwork",
+                    "LAGOS_NETS",
+                    "LivinOnTheEdge",
+                    "lagosus-reservoir",
+                    "metabolism_phenology",
+                    "pyflowline_icom",
+                    "liao-etal_2022_pyflowline_james",
+                    "tebaldi-etal_2021_natclimchange",
+                    "tropicalcyclone_MLP",
+                    "icom-mesh-data",
+                    "CRB-human-impacts",
+                    "snowice_light",
+                ]
+            ),
             releases,
         )
     )
@@ -217,8 +214,11 @@ if __name__ == "__main__":
 
     # truncate long release names
     releases_md = releases[:5]
-    [release.update(release=release["release"].split(" ")[0]) for release in releases_md]
-    
+    [
+        release.update(release=release["release"].split(" ")[0])
+        for release in releases_md
+    ]
+
     md = "\n".join(
         [
             "* [{repo}: {release}]({url}) - {published_at}".format(**release)
@@ -251,6 +251,10 @@ if __name__ == "__main__":
     # entries_md = "\n".join(
     #     ["* [{title}]({url}) - {published}".format(**entry) for entry in entries]
     # )
-    rewritten = replace_chunk(rewritten, "blog", "<a href='https://ed-hawkins.github.io/climate-visuals/PALEO-STRIPES/PAGES2k-BARS-1-2023-black.png' width=750/></a>")
+    rewritten = replace_chunk(
+        rewritten,
+        "blog",
+        "<a href='https://ed-hawkins.github.io/climate-visuals/PALEO-STRIPES/PAGES2k-BARS-1-2023-black.png' width=750/></a>",
+    )
 
     readme.open("w").write(rewritten)
