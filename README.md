@@ -1,0 +1,36 @@
+
+Move to Codeberg:
+
+```shell
+curl -s https://codeberg.org/robots.txt 2>&1 | tail -n 30
+# User-agent: Amazonbot
+# User-agent: anthropic-ai
+# User-agent: Applebot-Extended
+# User-agent: Bytespider
+# User-agent: CCBot
+# User-agent: ChatGPT-User
+# User-agent: ClaudeBot
+# User-agent: Claude-Web
+# User-agent: cohere-ai
+# User-agent: Diffbot
+# User-agent: FacebookBot
+# User-agent: facebookexternalhit
+# User-agent: FriendlyCrawler
+# User-agent: Google-Extended
+# User-agent: GPTBot
+# User-agent: ICC-Crawler
+# User-agent: ImagesiftBot
+# User-agent: img2dataset
+# User-agent: meta-externalagent
+# User-agent: OAI-SearchBot
+# User-agent: Omgili
+# User-agent: Omgilibot
+# User-agent: PerplexityBot
+# User-agent: PetalBot
+# User-agent: Scrapy
+# User-agent: Timpibot
+# User-agent: VelenPublicWebCrawler
+# User-agent: YouBot
+# Disallow: /
+```
+
