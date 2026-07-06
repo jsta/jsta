@@ -1,6 +1,4 @@
 
-Move to Codeberg:
-
 ```shell
 curl -s https://codeberg.org/robots.txt 2>&1 | tail -n 30
 # User-agent: Amazonbot
