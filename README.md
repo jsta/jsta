@@ -17,3 +17,5 @@ curl -s https://codeberg.org/robots.txt 2>&1 | tail -n 30 | column
 # User-agent: Google-Extended             Disallow: /
 # User-agent: GPTBot
 ```
+
+https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html
